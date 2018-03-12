@@ -1,0 +1,530 @@
+child_dialect_count	child_family_count	child_language_count	family_pk	father_pk	hid	id	latitude	longitude	longitude	name	pk	Bantu_status	Ethnologue_Population	Ethnologue_L1	Ethnologue_L2	L2_extra_source_if_not_ethnologue	Num_of_neighbours_within_50k	tree_name	Guthrie	presence_in_Grollemund	comments_Grollemund_tree	level_of_description
+9	0	0	104955	106262	bdu	orok1266	4.89504	9.15209	915.209	Oroko	29732	Narrow Bantu	"106,000 (2000)."	106000			2	A11_Londo	A101	1	"2, A121_Mbonge ; A122_Bakundu"	
+2	0	0	104955	29744	bwt	bafa1247	4.53307	9522	9522	Bafaw-Balong	29767	Narrow Bantu	"8,400 (1982 SIL)."	8400			8	A141_Lefo	A13 / A141	1		
+0	0	0	104955	106089	bvg	bonk1243	4.66054	9.76306	976.306	Bonkeng	29742	Narrow Bantu	"3,000 (2000)."	3000			5		A14	0		no description
+1	0	0	104955	106571	bsi	bass1260	5.23655	9.52275	952.275	Bassossi	29758	Narrow Bantu	"5,000 (2004 SIL)."	5000			5	A15_Manenguba	A15	1	"2, A15B_Mienge_NW_Manenguba"	
+7	0	0	104955	106678	bss	akoo1248	4.9243	9.65522	965.522	Akoose	29745	Narrow Bantu	"100,000 (2001 SIL), increasing."	100000			6	A15C_Akossi	A15	1		
+6	0	0	104955	106678	bqz	baka1273	4.79991	9.80402	980.402	Bakaka	29760	Narrow Bantu	"30,000 (1998 SIL)."	30000			4	A15C_Mkaa	A15	1		
+4	0	0	104955	106571	mbo	mboc1235	5.13981	9.92766	992.766	Mbo (Cameroon)	29753	Narrow Bantu	"45,000 (Ewan\'e Etam\'e 1995)."	45000			8	A15A_Mbuu	A15	1		
+0	0	0	104955	106257	nkc	nkon1247	5.33848	9.80096	980.096	Nkongho	29743	Narrow Bantu	"2,230 (2000)."	2230			11	A151_Nkongho	A151	1		
+0	0	0	104955	106262	bri	mokp1239	4.24178	9.23887	923.887	Mokpwe	29888	Narrow Bantu	"20,000 (2014 M. Engeler). Ethnic population: 150,000 (2014 M. Engeler)."	20000			8	A22_Bakweri	A21	1		
+0	0	0	104955	106262	bqm	wumb1241	4.24717	9.08026	908.026	Wumboko	29885	Narrow Bantu	"4,000 (2000)."	4000			5		A22	0		
+0	0	0	104955	107682	szv	isuf1235	3.96758	9.36535	936.535	Isu (Fako Division)	29886	Narrow Bantu	800 (1982 SIL). Few speakers (Dimmendaal and Voeltz 2007).	10			5		A23	0		
+0	0	0	104955	107682	kme	bako1250	4.43654	8.97387	897.387	Bakole	29887	Narrow Bantu	300 (1982 SIL).	300			3		A231	0		
+4	0	0	104955	107681	dua	dual1243	4.10208	9.61877	961.877	Duala	29880	Narrow Bantu	"87,700 (1982 SIL)."	87700			7	A24_Duala	A24-26	1		
+0	0	0	104955	107681	mzd	mali1280	3.67696	9.67186	967.186	Malimba	29878	Narrow Bantu	"2,230 (2001 SIL)."	2230			3	A27_Malimba	A27	1		
+3	0	0	104955	105704	bvb	bube1242	3.53638	8.68929	868.929	Bube	29796	Narrow Bantu	"51,000 (2011 S. Smith), decreasing. Few monolinguals."	51000			1	A31_Bubi	"A31, A221"	1		
+3	0	0	104955	106260	bnm	bata1285	2.08708	9.75107	975.107	Batanga	29800	Narrow Bantu	"9,000 in Equatorial Guinea (Johnstone and Mandryk 2001), decreasing. Very few monolinguals. Total users in all countries: 15,000."	9000			1	A32C_Batanga	A32	1		
+11	0	0	104955	29804	yko	yasa1242	2.06043	10678	10678	Yasa	29805	Narrow Bantu	"1,490 in Cameroon (2000). Ethnic population: 3,000. Total users in all countries: 2,400."	1490			0	A33a_Yasa	A33a	1		
+3	0	0	104955	29804	nui	ngum1255	1.72096	9.73613	973.613	Ngumbi	29817	Narrow Bantu	"9,200 (2011 SIL). Few monolinguals. Ethnic population: 9,200."	9200			3		A33b	0		
+0	0	0	104955	106260	bng	beng1282	0.8897	9.40336	940.336	Benga	29795	Narrow Bantu	"3,900 in Equatorial Guinea (2011 S. Smith), decreasing. 400 on Corisco Island. No monolinguals. Total users in all countries: 5,400."	3900			0	A34_Benga	A34	1		
+0	0	0	104955	106253	bbi	baro1252	4.64584	9.25261	925.261	Barombi	29771	Narrow Bantu	"3,000 (2001 SIL)."	3000			5	A41_Barombi-Kang	A41	1		no adequate description
+0	0	0	104955	106253	abb	bank1256	4.3702	9.6403	96.403	Bankon	29793	Narrow Bantu	"12,000 (2001 SIL)."	12000			5	A42_Abo	A42	1		
+12	0	0	104955	106254	bas	basa1284	3.80765	10.4213	104.213	Basa (Cameroon)	29772	Narrow Bantu	"300,000 (2005 SIL). Based on the actual population of the subdivisions where the Basaa people are present, as of the official 2005 census (2014 C. Hamm)."	300000			0	A43a_Basaa	A43a	1		
+7	0	0	104955	106254	bkh	bako1249	3.56518	9.99905	999.905	Bakoko	29785	Narrow Bantu	"50,000 (1982 SIL), increasing."	50000			1		A43b	0		
+0	0	0	104955	106305	tvu	tune1261	NA	NA	NA	Tunen	104424	Narrow Bantu	"40,000 (1997 J. Mbongue). Ethnic population: 100,000 (1997 J. Mbongue)."	40000			10	A44_Tunen	"A44, A441"	1		
+0	0	0	104955	106305	nvo	nyok1243	NA	NA	NA	Nyokon	104422	Narrow Bantu	"3,900 (Guthrie and Tucker 1956)."	3900			10	A45_Nyokon	A45	1		
+0	0	0	104955	106305	lem	noma1260	4.5893	10.9157	109.157	Nomaande	31141	Narrow Bantu	"6,000 (1982 SIL), increasing."	6000			13	A46_Nomaande	A46	1		
+0	0	0	104955	106118	ttf	tuot1238	4.65626	10.6592	106.592	Tuotomb	31139	Narrow Bantu	"1,000 (Dimmendaal and Voeltz 2007)."	10000			11		A461	0		
+2	0	0	104955	106118	yat	yamb1252	4.83615	10.9369	109.369	Yambeta	31136	Narrow Bantu	"3,700 (1982 SIL)."	3700			12	A462_Yambeta	A462	1		
+0	0	0	104955	106475	hij	hiju1238	4.39641	10.9081	109.081	Hijuk	29729	Narrow Bantu	400 (1992 SIL).	400			12		A501	0		no description
+4	0	0	104955	106420	lfa	lefa1242	5.05845	11114	11114	Lefa	29720	Narrow Bantu	"15,000 (2010 SIL)."	15000			5		A51	0		
+0	0	0	104955	106252	dii	dimb1238	4.80551	10.9888	109.888	Dimbong	29730	Narrow Bantu	"140 (1992 SIL). Ethnic population: 50,000."	140			11		A52	0		no description 21-11-2016
+2	0	0	104955	106420	ksf	bafi1243	4.72603	11.0982	110.982	Bafia	29726	Narrow Bantu	"60,000 (1991 UBS)."	60000			15	A53_Bafia_rikpa	A53	1	"2, A51_Bafia_maja"	
+0	0	0	104955	106087	ngy	tibe1274	5.30535	11.3103	113.103	Tibea	29725	Narrow Bantu	"1,400 (1992 SIL)."	1400			1	A54_Tibea	A54	1		
+0	0	0	104955	31151	leo	leti1245	4.57457	11405	11405	Leti (Cameroon)	31160	Narrow Bantu	Ethnic population: No ethnic community.	0			10	A63_Mangisa	A601	1		"no description 21-11-2016. Leti is a secret language of tradition, not everyday language"
+7	0	0	104955	31151	bag	tuki1240	4.64348	11.5353	115.353	Tuki	31152	Narrow Bantu	"26,000 (1982 SIL), increasing."	26000			5	A601_Tuki	A601	1	"4, A61_Ngoro-Asom ; A61_Ngoro-Bisoo ; A61_Ngoro-lunda"	
+0	0	0	104955	107595	ekm	elip1238	4.45694	11193	11193	Elip	31127	Narrow Bantu	"6,400 (1982 SIL)."	6400			14	A62C_Libie	A62	1		
+0	0	0	104955	107595	mmu	mmaa1238	4.52188	11.0599	110.599	Mmaala	31130	Narrow Bantu	"8,000 (2014 G. Boyd)."	8000			14	A62B_Mmala	A62	1		
+0	0	0	104955	106475	yav	yang1293	4.41971	11.0277	110.277	Yangben	31131	Narrow Bantu	"2,300 (1994 SIL)."	2300			15	A62A_Nuasue	A62	1	"2, A62A_Nukalonge"	
+0	0	0	104955	106474	baf	nuba1241	4.35696	11029	11029	Nubaca	31129	Narrow Bantu	"4,500 (2007 SIL). No monolinguals. Ethnic population: 5,000."	4500			12	A621_Nubaca	A621	1		
+2	0	0	104955	106119	yas	nugu1242	4.63103	11.1837	111.837	Nugunu (Cameroon)	31132	Narrow Bantu	"35,000 (1987 SIL)."	35000			15	A622_Nugunu	A622	1		
+0	0	0	104955	106474	mlb	mbul1262	4.50635	10.9924	109.924	Mbule	31128	Narrow Bantu	110 (2009 SIL). No monolinguals.	110			14		A623	0		
+0	0	0	104955	106475	btc	bati1251	4.25573	11.0591	110.591	Bati (Cameroon)	31140	Narrow Bantu	800 (1975 census).	800			9		A65	0		no description
+4	0	0	104955	29821	eto	eton1253	4.21045	11.3935	113.935	Eton (Cameroon)	29839	Narrow Bantu	"250,000 (2005 census). Based on census results for whole Lekie division. Delpech (1985: 161), cited in Van de Velde 2006, gives 250,000 in 1982 (2014 C. Hamm)."	250000			6	A71_Eton	A71	1		
+15	0	0	104955	106264	ewo	ewon1239	4.21141	11.9365	119.365	Ewondo	29822	Narrow Bantu	"578,000 (1982 SIL)."	578000			0	A72a_Ewondo	A72	1		
+2	0	0	104955	106264	beb	bebe1248	4.78874	12824	12824	Bebele	29857	Narrow Bantu	"24,000 (Welmers 1971a)."	24000			0		A73a	0		
+0	0	0	104955	106264	bxp	bebi1242	4.86672	13.3848	133.848	Bebil	29838	Narrow Bantu	"6,000 (1991 SIL)."	6000			1		A73b	0		no description
+5	0	0	104955	29821	bum	bulu1251	3.16141	11.6365	116.365	Bulu (Cameroon)	29850	Narrow Bantu	"858,000 (2007). L2 users: 800,000 (1991 UBS)."	858000	800000		1	A74a_Bulu	A74	1		
+5	0	0	104955	29821	fan	fang1246	1.72397	11.6145	116.145	Fang (Equatorial Guinea)	29844	Narrow Bantu	"589,000 in Equatorial Guinea (2013 S. Smith), increasing. L2 users: 35,000 in Equatorial Guinea (2013 S. Smith). Total users in all countries: 1,106,900 (as L1: 1,071,900; as L2: 35,000)."	1071900	35000		0	A75a_Fang_Bitam	"A75, A751"	1	"3, A75a_Fang_Medouneu; A75a_Fang_Minvoul"	
+4	0	0	104955	106679	ukh	ukhw1241	2.9095	16267	16267	Ukhwejo	29890	Narrow Bantu	"2,000 (1996 SIL)."	2000			0		A802	0		no description
+0	0	0	104955	106258	gyi	gyel1242	2.47457	10.2493	102.493	Gyele	29905	Narrow Bantu	"4,250 in Cameroon (2012 SIL). Total users in all countries: 4,279."	4250			1		A81 A801	0		
+3	0	0	104955	106258	nmg	kwas1243	2.39354	10.0812	100.812	Kwasio	29924	Narrow Bantu	"9,000 in Cameroon (1982 SIL), increasing. Total users in all countries: 22,000."	9000			1	A81_Kwasio	"A81, A801"	1		
+2	0	0	104955	106573	sox	soca1235	3.68257	12525	12525	So (Cameroon)	29902	Narrow Bantu	"9,000 (1992 SIL)."	9000			1		A82	0		no description 18 11 2016
+3	0	0	104955	106573	mcp	maka1304	4.15471	13.0789	130.789	Makaa	29928	Narrow Bantu	"80,000 (1987 SIL)."	80000			0	A83_Mekaa	A83	1		
+2	0	0	104955	106573	mkk	byep1241	4.57276	13.4625	134.625	Byep	29910	Narrow Bantu	"9,500 (1988 SIL)."	9500			2		A831	0		no description
+4	0	0	104955	106573	biw	kolc1235	3.65994	12.8574	128.574	Kol (Cameroon)	29897	Narrow Bantu	"12,000 (2007 B. Henson). 1,000 in Bikeng."	12000			1	A832_Bekol	A832	1		
+0	0	0	104955	106574	njy	njye1238	2.30483	14.1175	141.175	Njyem	29913	Narrow Bantu	"4,400 in Cameroon (2005 SIL). Based on the actual population of the subdivision where the Njyem people are present, as of the official 2005 census (2014 C. Hamm). No monolinguals. Total users in all countries: 7,900."	4400			1	A84_Njem	A84	1		
+2	0	0	104955	106574	ozm	koon1245	3.25933	13.5415	135.415	Koonzime	29915	Narrow Bantu	"40,000 (2011 SIL). No monolinguals. Ethnic population: 40,000."	40000			0	A841_Badwe	"A841, A842"	1		
+1	0	0	104955	106572	bkw	bekw1242	1.71801	14.6527	146.527	Bekwil	29895	Narrow Bantu	"9,600 in Congo (2003). Total users in all countries: 13,600."	9600			0	A85b_Bekwil_Mv	"A85a, A85b"	1	"2, A85b_Bekwil_Makokou"	
+5	0	0	104955	106572	mgg	mpon1254	3.14015	14866	14866	Mpongmpong	29918	Narrow Bantu	"45,000 (1991 SIL)."	45000			0		A86	0		
+3	0	0	104955	106679	mcx	mpie1238	3.45776	15.5246	155.246	Mpiemo	29906	Narrow Bantu	"24,000 in Central African Republic (1996). Total users in all countries: 29,000."	24000			2	A86c_Mpiemo	A86c	1		
+0	0	0	104955	106425	bmw	bomw1238	1.71005	15.9546	159.546	Bomwali	29914	Narrow Bantu	"33,200 in Congo (2002). Total users in all countries: 39,300."	33200			2	A87_Bomwali	A87	1		
+4	0	0	104955	29860	kwu	kwak1266	4.34393	13.6446	136.446	Kwakum	29872	Narrow Bantu	"10,000 (2002 SIL)."	10000			1	A91_Kwakum	A91	1		
+5	0	0	104955	29860	pmm	pomo1271	1.83	16.17	16.17	Pomo	29861	Narrow Bantu	"38,700 in Cameroon (2000). Total users in all countries: 44,130."	38700			3		A92	0		
+4	0	0	104955	29860	kkj	kako1242	3.79989	15.6282	156.282	Kako	29867	Narrow Bantu	"100,000 in Cameroon (2003 SIL). Total users in all countries: 119,460."	100000			3	A93_Kako	A93	1		
+6	0	0	104955	106086	mye	myen1241	-1.48741	9.50247	950.247	Myene	29994	Narrow Bantu	"45,000 (Idiata 2007). 1,000-2,000 Dyumba, 1,000-5,000 Enenga, 2,000-11,000 Galwa, 1,000-4,000 Mpongwe, 10,000 Orungu, 20,000 Nkomi."	45000			0	B11a_Mpongwe	B11	1	"5, B11b_Orungu ; B11c_Galwa ; B11d_Dyumba ; B11F_Enenga"	
+0	0	0	104955	106568	nda	ndas1238	-2.44901	13.3695	133.695	Ndasa sud	29955	Narrow Bantu	"4,530 in Congo (2000). Total users in all countries: 5,530."	4530			2	B201_Ndasa	B201	1		
+0	0	0	104955	106280	sxe	sigh1238	-0.95605	13.1214	131.214	Sighu	29947	Narrow Bantu	"1,000 (1990 CMA)."	1000			1	B202_Sigu	B202	1		
+0	0	0	104955	106422	syx	osam1235	NA	NA	NA	Osamayi	29948	Narrow Bantu	"1,000 (Idiata 2007)."	1000			10	B203_Samaye	B203	1		
+0	0	0	104955	106570	nxo	ndam1254	NA	NA	NA	Ndambomo	104420	Narrow Bantu	"1,000 (2016). P. Medjo-Mv\'e."	1000			10	B204_Ndambomo_Li	B204	1	"3, B204_Ndambomo_Mbadi ; B204_Ndambomo_Massoukou"	
+0	0	0	104955	106092	syi	seki1238	1.52302	9.79206	979.206	Seki	29946	Narrow Bantu	"1,000 in Gabon (Idiata 2007). Total users in all countries: 12,000."	1000			2	B21_Seki	B21	1		
+2	0	0	104955	106424	keb	kele1257	-0.78854	10.3836	103.836	K_l_	29952	Narrow Bantu	"1,000 (Idiata 2007)."	1000			0	B22a_Kele	B22	1		
+0	0	0	104955	106677	nra	ngom1270	0.882925	14.1345	141.345	Ngom nord	29950	Narrow Bantu	"8,240 in Gabon (2000). Total users in all countries: 12,770."	8240			1	B22b_Ngom	B22	1	"2, B22b_Koya"	
+0	0	0	104955	106092	bxc	mole1238	1.3718	9.61289	961.289	Molengue	29959	Narrow Bantu	"1,000 (2011 SIL), decreasing. L2 users: 0. Few monolinguals. Ethnic population: 1,000."	1000			2		B221	0		no description 30-11-2016
+0	0	0	104955	106569	zmn	mban1268	-2.28729	13.5956	135.956	Mbangwe	29951	Narrow Bantu	"2,000 in Gabon (Idiata 2007). Total users in all countries: 3,510."	2000			2	B23_Mbangwe	B23	1		
+0	0	0	104955	106568	wum	wumb1242	-2.39234	12264	12264	Wumbvu	29956	Narrow Bantu	"18,300 in Gabon (2000)."	18300			0	B24_Wumbvu	B24	1		
+0	0	0	104955	106421	koq	kota1274	0.077515	14.3796	143.796	Kota (Gabon)	29958	Narrow Bantu	"25,000 in Gabon (Idiata 2007). Total users in all countries: 34,060."	25000			0	B25_Kota	B25	1		
+0	0	0	104955	106570	sak	sake1247	0.25188	11787	11787	Sake	29949	Narrow Bantu	"8,000 (Idiata 2007)."	8000			1	B251_Shake	B251	1		
+0	0	0	104955	106421	mhb	maho1248	0.64356	14.0472	140.472	Mahongwe	29957	Narrow Bantu	"8,000 (Idiata 2007)."	8000			1	B252_Mahongwe	B252	1		
+0	0	0	104955	106419	gev	eviy1235	NA	NA	NA	Viya	29987	Narrow Bantu	50 (2013 D. Cavar). Ethnic population: 400 (2013 D. Cavar).	50			10	B301_Viya	B301	1		
+0	0	0	104955	106418	sbw	simb1254	-1.28107	11.1783	111.783	Simba	29986	Narrow Bantu	100 (Idiata 2007).	100			1	B302_Himba	B302	1		wait for IBL
+0	0	0	104955	106418	pic	pinj1243	-1.90305	11223	11223	Pinji	29985	Narrow Bantu	"1,000 (Idiata 2007)."	1000			1	B304_Pinzi	B304	1		
+0	0	0	104955	106419	buw	bubi1250	-1.16762	12.3225	123.225	Bubi	29984	Narrow Bantu	"4,000 (Idiata 2007)."	4000			0	B305_Vove	B305	1		
+0	0	0	104955	106419	tsv	tsog1243	-1.55469	11.1359	111.359	Tsogo	29988	Narrow Bantu	"9,000 (Idiata 2007)."	9000			2	B31_Tsogo	B31	1		
+0	0	0	104955	106418	kbs	kand1300	-0.00776	11.7076	117.076	Kande	29989	Narrow Bantu	100 (Grollemund 2005).	100			1	B32_Kande	B32	1		
+0	0	0	104955	107684	bwz	bwis1242	-3.23686	11.9595	119.595	Bwisi	30019	Narrow Bantu	"3,020 in Congo (2000). Total users in all countries: 4,250."	3020			0		B401	0		
+0	0	0	104955	106592	bbg	bara1362	-2.49659	10.6777	106.777	Barama	30017	Narrow Bantu	"1,000 (Idiata 2007)."	1000			1		B402	0		
+0	0	0	104955	106591	vum	vumb1238	-2.17673	10.6498	106.498	Vumbu	30021	Narrow Bantu	"5,000 (Idiata 2007)."	5000			2		B403	0		
+0	0	0	104955	106592	swj	sira1266	-1.78084	10.4635	104.635	Sira	30018	Narrow Bantu	"39,400 (2000). 30,000-40,000 (Idiata 2007)."	39400			1	B41_Shira	"B41, B411"	1		scan source
+0	0	0	104955	106283	snq	sang1333	-1.52694	11.9098	119.098	Sangu (Gabon)	30020	Narrow Bantu	"30,000 (Idiata 2007)."	30000			0	B42_Sangu_Mi	B42	1	"2, B42_Sangu_Mb"	
+0	0	0	104955	106591	puu	punu1239	-2.67362	11.6714	116.714	Punu	30023	Narrow Bantu	"152,000 in Gabon (Idiata 2007). Total users in all countries: 161,060."	152000			0	B43_Punu	B43	1		
+0	0	0	104955	107684	lup	lumb1249	-3.37917	11124	11124	Lumbu	30022	Narrow Bantu	"19,700 in Gabon (2000). Total users in all countries: 22,720."	19700			0	B44_Lumbu	B44	1		
+0	0	0	104955	106590	wdd	wand1266	-1.51945	12.8951	128.951	Wandji	30005	Narrow Bantu	"10,000 (Idiata 2007)."	10000			1	B501_Wanzi_E	B501	1	"2, B501_Wanzi_Mo"	
+0	0	0	104955	106590	dma	duma1253	-0.91927	13.0046	130.046	Duma	30007	Narrow Bantu	"9,840 (2000)."	9840			1	B51_Duma	B51	1	"2, B51_Duma_La"	
+0	0	0	104955	106589	nzb	njeb1242	-2.18115	12.7063	127.063	Njebi	30008	Narrow Bantu	"120,000 in Gabon (2007 R. Radke). Total users in all countries: 135,100."	120000			2	B52_Nzebi	B52	1		
+0	0	0	104955	106589	tsa	tsaa1242	-2.29245	12.7581	127.581	Tsaangi	30006	Narrow Bantu	"13,600 in Congo (2000). Total users in all countries: 22,210."	13600			1	B53_Tsaangi_Poungi	B53	1		
+0	0	0	104955	106443	kzo	kani1279	-1.71316	13.6111	136.111	Kaningi	29934	Narrow Bantu	"1,000 (Idiata 2007)."	1000			2	B602_Kaningi_Nord	B602	1	"2, B602_Kaningi_Sud"	no description
+1	0	0	104955	106588	mdt	mber1257	-0.477445	14.2877	142.877	Mbere	29943	Narrow Bantu	"60,400 in Congo (2000). Total users in all countries: 105,900."	60400			0		B61	0		
+0	0	0	104955	106588	mbm	omba1241	-2.75341	13617	13617	Ombamba	29942	Narrow Bantu	"15,100 (2000)."	15100			2	B62_Mbaama	B62	1	"2, B601_Lempini"	
+4	0	0	104955	106443	nmd	ndum1239	-1.67033	13.7279	137.279	Ndumu	29937	Narrow Bantu	"3,000 (Idiata 2007)."	3000			2	B63_Ndumu	B63	1		
+0	0	0	104955	106444	tck	tchi1245	-2.03393	13.6001	136.001	Tchitchege	29981	Narrow Bantu	"2,000 (2003)."	2000			3	B701_Atsitsege	B701	1		no description
+4	0	0	104955	106588	teg	teke1275	-1.61688	14.8664	148.664	Teke-Tege	29962	Narrow Bantu	"90,000 in Gabon (2011 SIL). No monolinguals. Total users in all countries: 139,300."	90000			0	B71a_Teke_Os	B71	1	"3, B71a_Teke_Dj ; B71aLe_Teke_Leconi"	
+1	0	0	104955	106281	ngz	ngun1272	-1.82055	15.6218	156.218	Ngungwel	29972	Narrow Bantu	"45,000 (1988 SIL)."	45000			0		"B72, B74"	0		wait for IBL
+0	0	0	104955	106281	ebo	teke1278	-2.6236	17031	17031	Teke-Ebo	29975	Narrow Bantu	"20,400 in Congo (2000). 740,000 all Teke languages in Congo (2012 World Factbook)."	20400			1		"B72, B74"	0		
+0	0	0	104955	107690	iyx	yaka1274	-3.73301	13.3637	133.637	Yaka (Congo)	29961	Narrow Bantu	"10,000 (1988)."	100000			2		B73	0		
+0	0	0	104955	107690	lli	teke1277	-3.34458	13.2703	132.703	Teke-Laali	29974	Narrow Bantu	"2,100 (2006). 740,000 all Teke languages in Congo (2012 World Factbook)."	2100			1		B73	0		
+0	0	0	104955	107690	tyi	teke1281	-2.98028	13.8603	138.603	Teke-Tsaayi	29980	Narrow Bantu	"95,900 (2000). 740,000 all Teke languages in Congo (2012 World Factbook)."	95900			1		B73	0		
+0	0	0	104955	106448	tyx	teke1276	-3.50685	13.8668	138.668	Teke-Tyee	29971	Narrow Bantu	"14,400. 740,000 all Teke languages in Congo (2012 World Factbook)."	14400			0		B73	0		
+3	0	0	104955	106281	tek	ibal1241	-4.20697	15.3893	153.893	Ibali Teke	29976	Narrow Bantu	"167,000 in Democratic Republic of the Congo (2000). Total users in all countries: 203,200."	167000			0	B71aIb_Teke_Ibali_Congo	"B75, B76"	1		
+0	0	0	104955	106447	kkw	teke1280	-2.27122	14.4407	144.407	Teke-Kukuya	29982	Narrow Bantu	"38,800 (2000). 740,000 all Teke languages in Congo (2012 World Factbook)."	38800			0		B77a	0		
+2	0	0	104955	106447	ifm	teke1274	-3.59003	15.5061	155.061	Teke-Fuumu	29968	Narrow Bantu	"8,150 (2000). 740,000 all Teke languages in Congo (2012 World Factbook)."	8150			0	B77b_Fumu	"B77b, B78"	1	"2, B78_Wuumu"	
+0	0	0	104955	107685	tii	tien1242	-2.84694	16.4765	164.765	Tiene	30003	Narrow Bantu	"24,500 (1977 SIL)."	24500			0	B81_Tiene	B81	1		
+0	0	0	104955	107685	boh	boma1246	3.5857	22973	22973	Boma	30002	Narrow Bantu	"20,500 (2000)."	20500			0	B82_Buma	B82	1		
+2	0	0	104955	106285	zmf	mfin1238	-4.26573	16.2559	162.559	Mfinu	30010	Narrow Bantu	"8,400 (2002)."	8400			0		B83	0		
+2	0	0	104955	106285	zmp	mpuo1241	-5.21134	19.4269	194.269	Mpuono	30013	Narrow Bantu	"165,000 (Nida 1972)."	165000			0	B84_Mbunda	B84	1		
+1	0	0	104955	107687	yns	yans1239	-3.8231	18.2341	182.341	Yansi	29991	Narrow Bantu	"100,000 (1997 S. Mufwene)."	100000			1	B85_Yanzi	B85	1		
+1	0	0	104955	107687	yns2	yans1239	-3.8231	18.2341	182.341	Yansi	29991	Narrow Bantu	"100,000 (1997 S. Mufwene)."	100000			1	B85_Yanzi	B85	1		
+0	0	0	104955	107686	soo	song1299	-4.55057	18.4978	184.978	Songo	30033	Narrow Bantu	"13,000 (2002)."	13000			0	B85d_Nsongo	B85	1		scan source
+0	0	0	104955	106588	nlo	ngul1247	-4.09816	19.5129	195.129	Ngul	29935	Narrow Bantu	"8,400 (2002)."	8400			1	B861_Ngul	B86	1		wait for IBL
+0	0	0	104955	29990	diz	ding1239	-4.44304	19.3881	193.881	Ding	29993	Narrow Bantu	"155,000 (2002)."	155000			1	B86_Dinga	B86	1	"3, B86_Dzing; B85e_Mput ; B863_Pindi, B864_Ngong"	
+0	0	0	104955	106100	bok	bonj1234	2.39823	17.6298	176.298	Bonjo	104800	Narrow Bantu	"3,000.00"	3000			1		C10?	0		
+3	0	0	104955	106100	bvx	dibo1245	1.07773	17.2305	172.305	Dibole	29694	Narrow Bantu	"4,000 (Leitch 2004). No monolinguals (Leitch 2004). Ethnic population: 4,000."	4000			0	C101_Babole_Dz	C101	1	"3, C101_Babole_Ma; C101_Babole_Ep"	
+2	0	0	104955	106274	ngd	ngan1304	3.71666	17.6499	176.499	Ngando (Central African Republic)	29515	Narrow Bantu	"5,000 (1996)."	5000			2		"C102, C103"	0		
+4	0	0	104955	106273	axk	yaka1272	3.6515	17.2713	172.713	Yaka (Central African Republic)	29518	Narrow Bantu	"15,000 in Central African Republic (1996). Total users in all countries: 30,000."	15000			2	C104_Aka	C104	1	"2, C105_Mbenga"	
+0	0	0	104955	106273	ndn	ngun1270	1.63917	16125	16125	Ngundi	29693	Narrow Bantu	"3,000 in Congo (2004)."	3000			2		C11	0		no description
+2	0	0	104955	106273	bkj	pand1264	3.57935	16.2275	162.275	Pande	29706	Narrow Bantu	"8,870 (2010 census)."	8870			0		C12	0		
+4	0	0	104955	106273	mdn	mbat1248	3.94184	17.7529	177.529	Mbati	29698	Narrow Bantu	"60,000 (2010 census)."	60000			2		C13	0		
+2	0	0	104955	106100	zmx	bomi1238	1.70044	17.3733	173.733	Bomitaba	29703	Narrow Bantu	"9,600 in Congo (2000). Total users in all countries: 9,820."	9600			0		C14	0		
+0	0	0	104955	106274	bui	bong1284	0.37063	16.6079	166.079	Bongili	29692	Narrow Bantu	"4,000.00"	4000			0	C15_Bongili	C15	1	"2, C141_Bonyala"	
+4	0	0	104955	106756	loq	loba1239	2.04881	18.3667	183.667	Lobala	29620	Narrow Bantu	"60,000 (2000 D. Morgan). Very few monolinguals."	60000			2		C16	0		
+0	0	0	104955	106682	bkp	boko1263	1.51612	18.8806	188.806	Boko (Democratic Republic of Congo)	29625	Narrow Bantu	"21,000.00"	21000			2		C16	0		
+0	0	0	104955	106756	bml	bomb1261	1.99315	18.5131	185.131	Bomboli	29542	Narrow Bantu	"2,500 (1986 SIL)."	2500			3		C161	0		no description
+0	0	0	104955	106580	bzo	boza1238	2.07295	18.6784	186.784	Bozaba	29543	Narrow Bantu	"5,500 (1983 census)."	5500			5		C162	0		no description
+1	0	0	104955	106099	mdu	mbok1243	0.43541	14.7935	147.935	Mboko	29716	Narrow Bantu	"27,200 (2000)."	27200			0	C21_Ngare	C21 (C23)	1		
+0	0	0	104955	106099	akw	akwa1248	-0.39897	15.4623	154.623	Akwa	29714	Narrow Bantu	"24,100 (2000)."	24100			1	C22_Akwa	C22	1		
+0	0	0	104955	106099	koh	koyo1242	-0.69688	15.7508	157.508	Koyo	29715	Narrow Bantu	"1,000.00"	1000			1	C24_Koyo	C24	1		
+0	0	0	104955	106099	mdw	mbos1242	-1.23019	15.5322	155.322	Mbosi	29710	Narrow Bantu	"108,000 (2000)."	108000			0	C25_Mboshi	C25	1	"5, C25A_Bunji ; C25B_Olee ; C25C_Ondinga ; C25E_Eboyi"	
+0	0	0	104955	106272	kwc	likw1239	-0.48981	16.5967	165.967	Likwala	29713	Narrow Bantu	"45,300 (2000)."	45300			0		C26	0		no description
+0	0	0	104955	106272	kxx	liku1242	-1.27931	16.4702	164.702	Likuba	29711	Narrow Bantu	"30,200 (2000)."	30200			1		C27	0		no description
+0	0	0	104955	106583	bzm	bolo1263	2.46327	19.6181	196.181	Bolondo	29638	Narrow Bantu	"3,000 (1983 census)."	3000			3	C302_Bolondo	C302	1		
+0	0	0	104955	106839	bxg	bang1353	3.3466	28.0445	280.445	Bangala	29548	Narrow Bantu	"Few L1 speakers. L2 users: 3,500,000 (1991 UBS)."	10	3500000		1		C30A	0		
+0	0	0	104955	106839	lin	ling1263	1.40324	19.7829	197.829	Lingala	29547	Narrow Bantu	"2,040,000 in Democratic Republic of the Congo (2000). Total users in all countries: 2,146,210."	2040000	7000000	Bentz	1	C36d_Lingala	C30b	1		
+0	0	0	104955	106839	lin2	ling1263	1.40324	19.7829	197.829	Lingala (Bokamba)	29547	Narrow Bantu	"2,040,000 in Democratic Republic of the Congo (2000). Total users in all countries: 2,146,210."	2040000?	7000000?	Bentz	1	C36d_Lingala	C30b	1		
+5	0	0	104955	29604	mmz	maba1270	2.11942	20.8759	208.759	Mabaale	29606	Narrow Bantu	"42,000 (2002)."	42000			0		C31	0		
+0	0	0	104955	29604	ndw	ndob1238	1.32539	18.6151	186.151	Ndobo	29605	Narrow Bantu	"10,200 (2000)."	10200			2		C31	0		
+4	0	0	104955	106804	biz	balo1261	0.93777	18.1266	181.266	Baloi	29582	Narrow Bantu	"20,000 (2002)."	20000			2		C31	0		no description
+0	0	0	104955	106805	lie	liki1240	1.75106	19.0222	190.222	Likila	29618	Narrow Bantu	"8,400 (2002)."	8400			3		C31	0		
+0	0	0	104955	106832	bni	bang1354	-0.87437	17227	17227	Bangi	29587	Narrow Bantu	"50,900 in Democratic Republic of the Congo (2000). Total users in all countries: 118,740."	50900			0	C32_Bobangi	C32	1		
+0	0	0	104955	106804	mow	moic1236	-1.72413	16.4556	164.556	Moi (Congo)	29533	Narrow Bantu	"3,020 (2000)."	3020			1		C32	0		no description
+3	0	0	104955	106805	liz	libi1244	1.97729	18.8886	188.886	Libinza	29613	Narrow Bantu	"10,000 (1986 SIL)."	10000			6		C321	0		
+0	0	0	104955	106266	szg	seng1278	-1.92256	17.2965	172.965	Sengele	29636	Narrow Bantu	"17,000 (2002)."	17000			1		C33	0		
+3	0	0	104955	106802	skt	saka1287	-2.85653	17.9669	179.669	Sakata	29529	Narrow Bantu	"75,000 (1982 UBS)."	75000			0	C34_Sakata	C34	1		
+0	0	0	104955	106429	bli	boli1255	-1.38362	18.0975	180.975	Bolia	29637	Narrow Bantu	"100,000 (2000)."	100000			1		C35	0		
+7	0	0	104955	106429	nto	ntom1248	-1.99062	18265	18265	Ntomba	29534	Narrow Bantu	"100,000 (1980 UBS)."	100000			0		C35	0		
+14	0	0	104955	106267	lse	luse1252	0.16988	18.3991	183.991	Lusengo	29551	Narrow Bantu	"42,000 (2002)."	42000			0		C36	0		
+0	0	0	104955	106805	bkt	bolo1262	0.83463	18.4555	184.555	Boloki	29545	Narrow Bantu	"4,200.00"	4200			2		C36e	0		
+0	0	0	104955	106583	ndl	ndol1238	2.15101	19.4087	194.087	Ndolo	29549	Narrow Bantu	"8,000 (1983 census)."	8000			4	C36g_Mosange	C36g	1		
+4	0	0	104955	106582	bja	budz1238	2.19951	22.6107	226.107	Budza	29628	Narrow Bantu	"226,000 (1985 census)."	226000			0	C37_Ebudza	C37	1		
+0	0	0	104955	106578	tmv	temb1272	2.0246	20.3685	203.685	Tembo (Motembo)	29633	Narrow Bantu	"5,000 (1986 SIL)."	5000			0		C37	0		
+3	0	0	104955	106565	pae	pagi1243	3.15636	22.1212	221.212	Pagibete	29640	Narrow Bantu	"28,000 (2000 SIL). 6,000 Momveda, 4,500 Mongbapele."	28000			0	C401_Pakabete	C401	1		
+2	0	0	104955	106415	kty	kang1286	3.47633	24.8202	248.202	Kango (Bas-U_l_ District)	29644	Narrow Bantu	"5,900 (2002)."	5900			0		C403	0		no adequate description
+3	0	0	104955	106581	ngc	ngom1268	1.45357	20.1415	201.415	Ngombe (Democratic Republic of Congo)	29567	Narrow Bantu	"150,000 (Welmers 1971a)."	150000			1	C41_Ngombe	C41	1		
+4	0	0	104955	106432	bws	bomb1262	2.40195	18.7841	187.841	Bomboma	29572	Narrow Bantu	"23,000 (1983 census)."	23000			4		C411	0		
+0	0	0	104955	106580	bmg	bamw1238	2.16773	19.1644	191.644	Bamwe	29571	Narrow Bantu	"20,000 (1983 census)."	20000			5	C412_Libobi	C412	1	"3, C142_Mondongo; C36g_Monyongo"	
+4	0	0	104955	106580	dzn	dzan1238	2.24195	19.0022	190.022	Dzando	29524	Narrow Bantu	"6,000 (1983 census)."	6000			5		C413	0		no description
+4	0	0	104955	106581	lgz	lige1238	2.86168	22.4936	224.936	Ligenza	29647	Narrow Bantu	"43,000 (1986 SIL)."	43000			0		C414	0		
+0	0	0	104955	106578	bwl	bwel1238	-1.63062	26.4508	264.508	Bwela	29634	Narrow Bantu	"8,400 (2002)."	8400			0	C42_Ebwela	C42	1		
+5	0	0	104955	106565	bww	bwaa1238	2.5957	25.2514	252.514	Bwa	29657	Narrow Bantu	"200,000 (1994 SIL)."	200000			0	C44_Bwa	"C43, C44"	1	"3, C43A_Baati; C401_Babati_1919"	
+0	0	0	104955	106578	bbm	baba1263	1.79475	23.5851	235.851	Babango	29546	Narrow Bantu	"2,550 (2000)."	2550			0		C441	0		
+4	0	0	104955	106415	agh	ngel1238	1.81314	24.8754	248.754	Ngelima	29652	Narrow Bantu	"13,600 (2000)."	13600			0		C45	0		
+0	0	0	104955	106097	zms	mbes1238	1.6207	22.8389	228.389	Mbesa	29673	Narrow Bantu	"8,400 (2002)."	8400			0		C51	0		no description
+0	0	0	104955	106584	soc	sode1235	1.25037	23.6907	236.907	So (Democratic Republic of Congo)	29669	Narrow Bantu	"6,000 (Welmers 1971a)."	6000			1	C52_Soko	C52	1	"2, C52_Soko_1919"	
+4	0	0	104955	106437	pof	poke1238	0.73538	23.8972	238.972	Poke	29674	Narrow Bantu	"46,000 (Welmers 1971a)."	46000			1		C53	0		IBL ordered
+0	0	0	104955	106436	loo	lomb1260	0.88267	24.6862	246.862	Lombo	29670	Narrow Bantu	"10,000 (Welmers 1971a)."	10000			1	C54_Turumba_1919	C54	1	old version of lang	unsure about source
+0	0	0	104955	106436	khy	kele1255	0.36906	24.3098	243.098	Kele (Democratic Republic of Congo)	29672	Narrow Bantu	"160,000 (1980 UBS)."	160000			0	C55_Lokele	"C55, C56"	1		
+13	0	0	104955	106681	lol	mong1338	-1.54228	20.4259	204.259	Mongo (Atlantic-Congo)	29589	Narrow Bantu	"400,000 (1995)."	400000			0	C61_Mongo	C61 C611 C36h	1	"2, C61E_Konda"	data to be entered during the weekend
+0	0	0	104955	106681	nxd	ngan1302	-0.14363	22.6231	226.231	Ngando (Democratic Republic of Congo)	29664	Narrow Bantu	"220,000 (1995)."	220000			1		"C63, C62"	0		
+0	0	0	104955	107693	tll	tete1250	-4.29314	24546	24546	Tetela	29512	Narrow Bantu	"750,000 (1991 UBS)."	750000			0	C71_Tetela	C71	1		
+0	0	0	104955	107693	hba	hamb1245	-2.49047	24.2299	242.299	Hamba (Democratic Republic of Congo)	30910	Narrow Bantu	"13,000 (2002)."	13000			0		C71	0		no description
+0	0	0	104955	106452	ttl	tote1238	-16.9575	24.3751	243.751	Totela	30743	Narrow Bantu	"1,120 (2010 census)."	1120			0		C71	0		no description
+0	0	0	104955	107693	ksv	kusu1252	-3.61459	25.2923	252.923	Kusu	29503	Narrow Bantu	"26,000 (Welmers 1971a)."	26000			0		C72	0		IBL ordered
+6	0	0	104955	106757	nkw	nkut1238	-3.67432	22.6802	226.802	Nkutu	29505	Narrow Bantu	"40,000 (Nida 1972)."	40000			0		C73	0		
+0	0	0	104955	106754	yel	yela1238	-2.46204	22.5891	225.891	Yela	29504	Narrow Bantu	"33,000 (Voegelin and Voegelin 1977)."	33000			0		"C74, C75"	0		
+1	0	0	104955	106754	oml	ombo1238	-2.32162	25.1748	251.748	Ombo	29666	Narrow Bantu	"8,400 (2002)."	8400			1	C76_Ombo	C76	1		wait for IBL
+0	0	0	104955	106754	dez	deng1250	-3.26337	21.4194	214.194	Dengese	29683	Narrow Bantu	"8,600 (2000)."	8600			0	C81_Dengese	C81	1		
+0	0	0	104955	106757	soe	song1305	-3.81041	21.4223	214.223	Songomeno	29682	Narrow Bantu	"50,000 (Barrett 1982)."	50000			0		C82	0		
+5	0	0	104955	106831	buf	bush1247	-4.69463	21.4556	214.556	Bushoong	29685	Narrow Bantu	"155,000 (2000)."	155000			0	C83_Bushong	C83	1		
+0	0	0	104955	106831	lel	lele1265	-4.94672	20.5674	205.674	Lele (Democratic Republic of Congo)	29684	Narrow Bantu	"26,000 (Welmers 1971a)."	26000			0		C84	0		
+0	0	0	104955	106831	won	wong1247	-5.73837	20.5054	205.054	Wongo	29681	Narrow Bantu	"12,700 (2000)."	12700			0	C85_Wongo	C85	1		no description
+8	0	0	104955	106430	mdq	mbol1247	-0.57181	24.0443	240.443	Mbole	30972	Narrow Bantu	"100,000 (Welmers 1971a)."	100000			0	D11_Mbole	D11	1		
+0	0	0	104955	105908	lej	leng1258	-1.95874	25.3343	253.343	Lengola	30971	Narrow Bantu	"100,000 (1998)."	100000			1	D12_Lengola	D12	1		
+0	0	0	104955	106470	zmq	mitu1240	-1.57031	25104	25104	Mituku	30970	Narrow Bantu	"50,900 (2000)."	50900			0	D13_Metoko	D13	1		
+0	0	0	104955	106109	gey	enya1247	-4.67337	26.7496	267.496	Enya	30981	Narrow Bantu	"15,000 (2000)."	15000			0	D14_Enya	D14	1		
+3	0	0	104955	106250	lik	lika1243	2.13777	27.6088	276.088	Lika	30906	Narrow Bantu	"60,000 (1989 SIL). 57,000 in Wamba Territory, 3,000 in Rungu Territory."	60000			1	D201_Liko	D201	1		
+4	0	0	104955	105904	bcp	bali1274	1.1807	26.5941	265.941	Bali (Democratic Republic of Congo)	30928	Narrow Bantu	"42,000 (1987 UBS). No monolinguals."	42000			0	D21_Baali	D21	1		no adequate description
+2	0	0	104955	107689	bip	bila1255	1.16839	28.7626	287.626	Bila	30941	Narrow Bantu	"40,000 (1993 SIL)."	40000			1	D311_Bila	"D211, D311, D313"	1		
+0	0	0	104955	106414	kzy	kang1285	1.59855	27.0186	270.186	Kango (Tshopo District)	30947	Narrow Bantu	"2,000 (1998 T. Harvey)."	2000			0	D211_Kango	"D211, D311, D313"	1		no adequate description
+3	0	0	104955	106249	rwm	amba1263	0.81206	30.0014	300.014	Amba (Uganda)	30958	Narrow Bantu	"35,600 in Uganda (2002 census), decreasing. Census based on tribal affiliation. Total users in all countries: 40,100."	40100			4	*D20B_Vamba_1919	D22	0	old?	
+0	0	0	104955	106414	kmw	komo1260	-0.76333	26.7144	267.144	Komo (Democratic Republic of Congo)	30937	Narrow Bantu	"400,000 (1998 SIL)."	400000			0	D23_Kibira-Kumu_1919	D23	1	old version of lang	
+3	0	0	104955	106607	sod	song1300	-2.21871	26.3477	263.477	Songoora	30894	Narrow Bantu	"1,300 (Welmers 1971a)."	1300			0	D24_Songola	D24	1		
+6	0	0	104955	107691	lea	lega1249	-3.83196	27.1424	271.424	Lega-Shabunda	30920	Narrow Bantu	"400,000 (1982 UBS)."	400000			0	D25_Lega	D25 D251	1		
+6	0	0	104955	106608	lgm	lega1250	-3.39007	28.2621	282.621	Lega-Mwenga	30913	Narrow Bantu	"44,900 (2000)."	44900			0		D25 D251	0		
+0	0	0	104955	107691	khx	kanu1278	-1.82559	28.1017	281.017	Kanu	30911	Narrow Bantu	"3,500 (Welmers 1971a)."	3500			0		"D25, D251"	0		no description
+0	0	0	104955	106112	ktf	kwam1250	-1.53712	27.4633	274.633	Kwami	30899	Narrow Bantu	400	400			0		"D25, D251"	0		no description
+5	0	0	104955	106109	zmb	zimb1251	-4013	26.6083	266.083	Zimba	30900	Narrow Bantu	"120,000 (1994 census)."	120000			0		D26	0		
+6	0	0	104955	106587	bnx	bang1350	-4.31464	27.2438	272.438	Bangubangu	30632	Narrow Bantu	"171,000 (1995 SIL). 85,000 Bangubangu, 30,000 Mikebwe, 20,000 Kasenga, 32,000 Nonda, 4,000 Hombo."	171000			0		D27	0		
+0	0	0	104955	106700	hoo	holo1240	-5.37545	28.3274	283.274	Holoholo	30898	Narrow Bantu	"15,500 (2002)."	15500			1	D28_Holoholo	D28	1		
+0	0	0	104955	106416	kbj	kari1306	5.03525	25.7491	257.491	Kari (Democratic Republic of Congo)	30029	Narrow Bantu	"1,000. May be nearly extinct (Dimmendaal and Voeltz 2007)."	1000			0		D301	0		
+2	0	0	104955	106567	bqu	bogu1241	4.49213	29.1344	291.344	Boguru	30030	Narrow Bantu		NA			0		D302	0		no description
+0	0	0	104955	106566	myc	maye1238	-1.10038	17.8225	178.225	Mayeka	30027	Narrow Bantu	"21,000 (2004). Ethnic population: 25,500 (2000)."	21000			1		"D303, D307"	0		no description
+0	0	0	104955	106566	nbd	ngbi1238	3.27251	23.5669	235.669	Ngbinda	30034	Narrow Bantu	"4,200 (2002)."	4200			0		"D303, D307"	0		no description
+0	0	0	104955	106417	hom	homa1239	4.97912	28.0039	280.039	Homa	30957	Narrow Bantu	No known L1 speakers. No remaining speakers as of 1975.	0			0	*D304_Homa_1919	D304	1	1919 version of language	
+0	0	0	104955	106416	nyc	nyan1303	2.97634	29.1805	291.805	Nyanga-li	30026	Narrow Bantu	"69,000 (2002). 21,000 Gbati-ri (2002)."	69000			3	*D305_Nyanga-li	D305 D306	1	ancient variant?	no description
+0	0	0	104955	106567	boy	bodo1272	6	26	26	Bodo (Central African Republic)	30945	Narrow Bantu	15 (1996).	15			0		D308	0		
+1	0	0	104955	106414	bhy	bhel1238	0.24553	28.6681	286.681	Bhele	30934	Narrow Bantu	"15,000 (1989)."	15000			0		D31	0		no description
+0	0	0	104955	107689	kkq	kaik1247	0.75068	28.7394	287.394	Kaiku	30938	Narrow Bantu	"13,000 (2002)."	13000			1		D312	0		no description
+8	0	0	104955	106117	buu	budu1250	2.00501	27951	27951	Budu	30948	Narrow Bantu	"180,000 (1991 SIL)."	180000			1	D313_Mbuttu_1919	D32	1	"old? 3, *D308_Ebodo; *D308_Bodo2"	
+0	0	0	104955	106249	brf	bera1259	1.50054	30.0293	300.293	Bera	30940	Narrow Bantu	"120,000 (1992 SIL)."	120000			2	D32_Bira	D32	1	"2, D32_Bira_Bunia"	IBL ordered
+0	0	0	104955	106117	nlj	nyal1250	1.92098	30.0201	300.201	Nyali	30944	Narrow Bantu	"43,000 (1993 SIL)."	43000			2	D33_Nyali	D33	1		
+0	0	0	104955	106117	vau	vanu1242	0.93847	29.8135	298.135	Vanuma	30946	Narrow Bantu	"6,700 (1993 SIL)."	6700			4	D331_Bvanuma	D331	1		no description
+0	0	0	104955	106117	ndk	ndak1241	1.53341	27.9693	279.693	Ndaka	30962	Narrow Bantu	"25,000 (1994 SIL)."	25000			1	D333_Ndaaka	D333	1		no description
+0	0	0	104955	106117	zmw	mbod1238	1.11602	28018	28018	Mbo (Democratic Republic of Congo)	30936	Narrow Bantu	"11,000 (1994 SIL)."	11000			1	D334_Mbo	D334	1		no description
+0	0	0	104955	106117	bkf	beek1238	3.18438	29.9842	299.842	Beeke	30927	Narrow Bantu	"1,000 (1994 SIL)."	1000			2		D335	0		no description
+0	0	0	104955	106416	jgb	ngbe1238	3.60447	27.6529	276.529	Ngbee	30036	Narrow Bantu	No known L1 speakers.	0			0		D336	0		no description
+4	0	0	104955	106112	nyj	nyan1304	-1.29357	28.3155	283.155	Nyanga	30963	Narrow Bantu	"150,000 (1994 census)."	150000			0	D43_Nyanga	D43	1		
+0	0	0	104955	106607	bmb	bemb1255	-4.49057	29.0507	290.507	Bembe	30984	Narrow Bantu	"252,000 in Democratic Republic of the Congo (1991 UBS)."	252000			1		D54	0		
+0	0	0	104955	106700	byi	buyu1239	-5.41806	28.5545	285.545	Buyu	30983	Narrow Bantu	"10,000 (2002)."	10000			1	D55_Buyu	D55	1		
+0	0	0	104955	106460	soz	temi1247	-2.19303	35.8035	358.035	Temi	30093	Narrow Bantu	"30,000 (2002 SIL). Ethnic population: 30,000."	30000			0	E46_Sonjo	E46	1		
+5	0	0	104955	106595	kik	kiku1240	-0.29005	36719	36719	Kikuyu	30048	Narrow Bantu	"6,623,000 (2009 census), increasing."	6623000			0	E51_Kikuyu	E51	1		
+2	0	0	104955	106595	ebu	embu1241	-0.62822	37.5933	375.933	Embu	30045	Narrow Bantu	"324,000 (2009 census), increasing."	324000			1	E52_Embu	E52	1		
+0	0	0	104955	106459	cuh	chuk1274	-0.27405	37.6116	376.116	Chuka	30067	Narrow Bantu	"70,000 (1980 SIL), increasing."	70000			2	E541_Chuka	E53 E531 E54 E541	1		
+6	0	0	104955	106459	mer	meru1245	0.26484	37.7396	377.396	Meru	30060	Narrow Bantu	"1,660,000 (2009 census), increasing."	1660000			2	E53_Meru	E53 E531 E54 E541	1	"7, E53_Igoji ; E53_Miutini ; E53_Imenti ; E53_Tigania ; E53_Meruimenti ; E53_Merutig"	
+2	0	0	104955	106595	mws	mwim1241	-0.11968	37.5939	375.939	Mwimbi-Muthambi	30068	Narrow Bantu	"70,000 (1980 SIL), increasing."	70000			2	E531_Muthambi	E53 E531 E54 E541	1	"2, E531_Mwimbi"	
+4	0	0	104955	106459	thk	thar1283	-0.13221	38073	38073	Tharaka	30055	Narrow Bantu	"176,000 (2009 census), increasing. No monolinguals."	176000			0	E54_Tharaka	E53 E531 E54 E541	1		
+4	0	0	104955	106458	kam	kamb1297	-1.60827	37.9532	379.532	Kamba (Kenya)	30039	Narrow Bantu	"3,893,000 (2009 census), increasing. L2 users: 600,000."	3893000	600000		0	E55_Kamba	E55 E56	1	"3, E55_Kamba_Mach ; E55_Kamba_Kitu"	
+0	0	0	104955	106458	dhs	dhai1238	-4.81209	38818	38818	Dhaiso	30044	Narrow Bantu	"5,000 (1999)."	5000			3	E56_Daiso	E55 E56	1		
+5	0	0	104955	106694	jmc	mach1266	-3.29385	37.0703	370.703	Machame	30146	Narrow Bantu	"300,000 (1992 UBS), increasing."	300000			2	E621B_Machame	E621	1	"3, E621C_Siha ; E621D_Kibosho"	
+1	0	0	104955	106694	rwk	rwaa1238	-3.42862	36.7686	367.686	Rwa	30143	Narrow Bantu	"90,000 (1987). 50,000 Kihai."	90000			2		E621	0		
+1	0	0	104955	106693	old	moch1256	-3.33743	37.3357	373.357	Mochi	30152	Narrow Bantu	"597,000 (2000)."	597000			7	E622A_Kimochi	E622	1		
+4	0	0	104955	106693	vun	vunj1238	-3.42531	37.5847	375.847	Vunjo	30137	Narrow Bantu	"300,000 (1992 UBS), increasing."	300000			5	E622C_Vunjo	E622	1	"3, E622C_Lema ; E622C_Mamba"	
+4	0	0	104955	106602	rof	romb1244	-3.07772	37.5382	375.382	Rombo	30132	Narrow Bantu		NA			6	E623_Mkuu	E623	1	"3, E623D_Keni ; E623A_Kiseri"	
+0	0	0	104955	106693	hka	kahe1238	-3.51412	37.5759	375.759	Kahe	30142	Narrow Bantu	"2,700 (1987)."	2700			5	E64_Kahe	E64	1		
+0	0	0	104955	30131	gwe	gwen1239	-3.68407	37.6827	376.827	Gweno	30154	Narrow Bantu	"Ethnic population: 2,500."	2500			3	E65_Gweno	E65	1		
+0	0	0	104955	106604	mlk	ilwa1237	-0.66322	39793	39793	Ilwana	30095	Narrow Bantu	"16,800 (2009 census), increasing."	16800			0	E701_Elwana	E701	1		
+6	0	0	104955	106603	pkb	poko1261	-2.31587	40.2897	402.897	Pokomo	30096	Narrow Bantu	"95,000 (2009 census), increasing."	95000			1	E71A_Upper_Pokomo	E71	1		
+0	0	0	104955	106764	coh	chon1287	-3.79746	39.7553	397.553	Chonyi-Dzihana-Kauma	30113	Narrow Bantu	"184,000 (2009 census), increasing. Chonyi 149,000, Jibana 35,200."	184000			0		E72 E73 E731 E732	0		
+0	0	0	104955	106765	dig	digo1243	-4.62101	39.1752	391.752	Digo	30115	Narrow Bantu	"313,000 in Kenya (2009 census), increasing. Total users in all countries: 401,000."	313000			2	E73_Digo	E72 E73 E731 E732	1		
+0	0	0	104955	106764	dug	duru1249	-4.09629	39322	39322	Duruma	30112	Narrow Bantu	"397,000 (2009 census), increasing."	397000			0		E72 E73 E731 E732	0		
+7	0	0	104955	106764	nyf	giry1241	-3.30638	39.6648	396.648	Giryama	30104	Narrow Bantu	"944,000 (2009 census), increasing. 752,000 Giryama; 25,400 Kambe; 98,700 Rabai; 14,500 Ribe; 52,900 Kauma."	944000			0	E72a_Giryama	E72 E73 E731 E732	1		
+0	0	0	104955	106765	seg	sege1246	-5.00659	39.1225	391.225	Segeju	30114	Narrow Bantu	"7,000, decreasing. Ethnic population: 15,000."	7000			2		E72 E73 E731 E732	0		
+6	0	0	104955	30116	tga	saga1262	-3.60164	38.5037	385.037	Sagalla	30117	Narrow Bantu	"100,000 (1992 UBS)."	100000			1		E74 E741 G21	0		
+6	0	0	104955	30116	dav	tait1250	-3.79347	38.5725	385.725	Taita	30124	Narrow Bantu	"274,000 (2009 census), increasing."	274000			1	E74a_Dawida	E74 E741 G21	1		
+0	0	0	104955	106466	tvs	tave1240	-3.41822	37.7061	377.061	Taveta	30651	Narrow Bantu	"21,000 (2009 census), increasing."	21000			5	E74a_Tuveta	E74 E741 G21	1		
+0	0	0	104955	106594	bdp	bend1258	-6.22082	30.5926	305.926	Bende	30869	Narrow Bantu	"27,000 (1999)."	27000			0	F12_Bende	F10 F11 F12	1		
+0	0	0	104955	106594	tny	tong1320	-6.43051	30.0807	300.807	Tongwe	30879	Narrow Bantu	"13,000 (2001). Ethnic population: 31,600 (2000)."	13000			0		F10 F11 F12	0		no description
+2	0	0	104955	106468	suk	suku1261	-3.16082	32.8765	328.765	Sukuma	30882	Narrow Bantu	"7,300,000 (2013 J. Leclerc), increasing."	7300000			0	F21_Sukuma	F21	1	"2, F21_Ntuzu"	
+0	0	0	104955	106468	kcz	kono1265	-6.51503	32.1803	321.803	Konongo	30881	Narrow Bantu	"51,000 (1987)."	51000			0		F22	0		
+3	0	0	104955	106468	nym	nyam1276	-5.08559	32.9445	329.445	Nyamwezi	30887	Narrow Bantu	"1,320,000 (2013 J. Leclerc). 73% are in the traditional area."	1320000			0	F22_Nyamwezi	F22	1		
+0	0	0	104955	106295	suw	sumb1240	-3.47335	31.9457	319.457	Sumbwa	30891	Narrow Bantu	"191,000 (1987)."	191000			0	F23_Sumbwa	F23	1		
+0	0	0	104955	106468	kiv	kimb1242	-7.23023	33.6445	336.445	Kimbu	30885	Narrow Bantu	"78,000 (1987), decreasing."	78000			0	F24_Kimbu	F24	1		
+0	0	0	104955	106108	wun	bung1265	-8.32587	32.8801	328.801	Bungu	30886	Narrow Bantu	"36,000 (1987)."	36000			1	F25_Bungu	F25	1		
+1	0	0	104955	106113	nim	nila1242	-4.50002	34.3068	343.068	Nilamba	30851	Narrow Bantu	"613,000 (2013 J. Leclerc). 50,000 Iambi."	613000			0	F31_Nyiramba	F31	1		
+0	0	0	104955	106113	isn	isan1243	-3.99991	34846	34846	Isanzu	30035	Narrow Bantu	"32,400 (1987)."	32400			2		F31b	0		no description
+3	0	0	104955	106113	rim	nyat1246	-5.12263	34.6657	346.657	Nyaturu	30853	Narrow Bantu	"801,000 (2013 J. Leclerc)."	801000			0	F32_Nyaturucha	F32	1	"2, F32_Nyaturuwil"	
+4	0	0	104955	106110	lag	lang1320	-4.71413	35.9517	359.517	Langi	30857	Narrow Bantu	"410,000 (2007 R. Cox), increasing. Many ethnic Burunge (Chemba, Goima, and elsewhere) and some Alagwa (Kolo, Mnenya, and elsewhere) who are L1 Langi speakers. No monolinguals."	410000			1	F33_Langi	F33	1		
+0	0	0	104955	106110	mgz	mbug1242	-3.75763	35.8133	358.133	Mbugwe	30862	Narrow Bantu	"24,000 (1999)."	24000			0		F34	0		
+3	0	0	104955	106606	gog	gogo1263	-6.35951	35.4807	354.807	Gogo	30693	Narrow Bantu	"1,930,000 (2013 J. Leclerc), increasing."	1930000			0	G11_Gogo	G11	1		
+3	0	0	104955	106467	kki	kagu1239	-6.38204	37.0534	370.534	Kagulu	30689	Narrow Bantu	"241,000 (2006 M. Petzell)."	241000			0	G12_Kagulu	G12	1		
+0	0	0	104955	106466	asa	asut1235	-4.17978	37.8323	378.323	Asu (Tanzania)	30653	Narrow Bantu	"500,000 (2000). No monolinguals."	500000			0	G22_Asu	G22	1	"2, G22A_North_Pare ; G22B_South_Pare"	
+0	0	0	104955	106767	ksb	sham1280	-8.5	34.17	34.17	Shambala	30652	Narrow Bantu	"664,000 (Johnstone and Mandryk 2001)."	664000			0	G23_Sambaa	G23	1		
+0	0	0	104955	106767	bou	bond1247	-5.10749	38.5079	385.079	Bondei	30654	Narrow Bantu	"50,000 (2000 M. Brenzinger)."	50000			2	G24_Bondei	G24	1		
+0	0	0	104955	106605	doe	doee1238	-6.25844	38.4902	384.902	Doe	30657	Narrow Bantu	"24,000 (1987)."	24000			1	G32_Doe	G301	1		
+0	0	0	104955	107198	xma	mush1238	0.00689	42.6626	426.626	Mushungulu	30659	Narrow Bantu	"20,000 (1998 J. Leclerc)."	20000			0		G31 G311	0		
+0	0	0	104955	107198	ziw	zigu1242	-5.61864	38.4114	384.114	Zigula	30664	Narrow Bantu	"355,000 (Johnstone 1993)."	355000			0	G31_Zigua	G31 G311	1		
+0	0	0	104955	106697	cwe	kwer1261	-6.50666	38.4449	384.449	Kwere	30665	Narrow Bantu	"98,000 (1987)."	98000			1	G32_Kwere	G32	1		
+0	0	0	104955	106766	zaj	zara1247	-6.87705	38.9258	389.258	Zaramo	30663	Narrow Bantu	"Few speakers (Brenzinger et al 1991). Ethnic population: 657,000 (2000)."	10			1	G33_Zaramo	G33	1		
+0	0	0	104955	106768	ngp	ngul1246	-5.79734	37.6823	376.823	Ngulu	30662	Narrow Bantu	"132,000 (1987)."	132000			0	G34_Nguungulu	G34	1		
+0	0	0	104955	106605	ruf	lugu1238	-6.86828	37.5557	375.557	Luguru	30660	Narrow Bantu	"692,000 (Johnstone and Mandryk 2001)."	692000			0	G35_Luguru	G35	1		
+0	0	0	104955	106697	kcu	kami1256	-6.71075	37.98	37.98	Kami (Tanzania)	30656	Narrow Bantu	"16,400 (2000), decreasing."	16400			0	G36_Kami	G36	1		
+0	0	0	104955	106766	kdc	kutu1263	-7.23789	37.8623	378.623	Kutu	30661	Narrow Bantu	"45,000 (1987)."	45000			0	G37_Kutu	G37	1		
+0	0	0	104955	106699	vid	vidu1238	-7.52674	36.9316	369.316	Vidunda	30658	Narrow Bantu	"32,000 (1987)."	32000			0		G38	0		no description
+4	0	0	104955	106699	sbm	saga1256	-6.98537	36.9153	369.153	Sagala	30666	Narrow Bantu	"79,000 (1987)."	79000			0	G39_Saghala	G39	1		
+4	0	0	104955	106696	swc	cong1236	-7.2692	27.4196	274.196	Congo Swahili	30698	Narrow Bantu	"1,000 in Democratic Republic of the Congo. L2 users: 9,100,000 in Democratic Republic of the Congo (1991 UBS). Total users in all countries: 9,101,000 (as L1: 1,000; as L2: 9,100,000)."	1000	9100000		0		G42 G43	0		
+4	0	0	104955	106696	wmw	mwan1247	-12.5821	40.4601	404.601	Mwani	30703	Narrow Bantu	"100,000 (2014 J. Leclerc). L2 users: 20,000."	100000	20000		0	G401_Mwani	G42 G43	1		
+13	0	0	104955	106696	swh	swah1253	-8.25605	37624	37624	Swahili	30709	Narrow Bantu	"15,000,000 in Tanzania (2012), increasing. L2 users: 32,000,000 in Tanzania (2015 D. Nurse). Total users in all countries: 98,054,860 (as L1: 15,754,860; as L2: 82,300,000)."	15754860	82300000		1	G42_Swahili	G42 G43	1	"6, G41_Bajuni ; G412_Mwiini ; G42a_Amu ; G42d_Unguja ; G43_Kae"	
+2	0	0	104955	106696	ymk	makw1236	-10.4673	40.0274	400.274	Makwe	30723	Narrow Bantu	"22,000 in Mozambique (2003). Total users in all countries: 32,000."	22000			0		G42 G43	0		
+0	0	0	104955	106696	ccl	cutc1238	-3.13905	38.6217	386.217	Cutchi-Swahili	30727	Narrow Bantu	"45,000 (Maho and Sands 2002). Approximately 45,000 in Tanzania in the early 1970s (Maho and Sands 2002)."	45000			0		G42 G43?	0		
+0	0	0	104955	106695	wlc	mwal1237	-12.3164	43741	43741	Mwali Comorian	30728	Narrow Bantu	"27,200 in Comoros (2000). Total users in all countries: 28,700."	27200			0		G44	0		
+0	0	0	104955	106763	wni	ndzw1235	-12.2123	44.3709	443.709	Ndzwani Comorian	30726	Narrow Bantu	"264,000 in Comoros (2000). Total users in all countries: 275,000."	264000			0		G44	0		no description
+0	0	0	104955	106695	zdj	ngaz1238	-11.6129	43.36	43.36	Ngazidja Comorian	30708	Narrow Bantu	"300,000 in Comoros (2004). Total users in all countries: 312,000."	300000			0	G44a_Ngazija	G44	1		
+2	0	0	104955	106763	swb	maor1244	-15.4055	45.1362	451.362	Maore Comorian	30729	Narrow Bantu	"132,000 in Mayotte (2004 J. Leclerc). Total users in all countries: 136,500."	132000			0	G44D_Maore	G44d	1		
+0	0	0	104955	30671	poy	pogo1243	-8.72283	36.4148	364.148	Pogolo	30673	Narrow Bantu	"185,000 (1987)."	185000			0	G51_Pogoro	G51	1		
+0	0	0	104955	30671	ndj	ndam1239	-8.40485	36.0271	360.271	Ndamba	30672	Narrow Bantu	"55,000 (1987)."	55000			1	G52_Ndamba	G52	1		
+0	0	0	104955	107029	sbp	sang1330	-6.3	39.35	39.35	Sangu (Tanzania)	30683	Narrow Bantu	"75,000 (1987), decreasing."	75000			0	G61_Sangu	G61	1		
+0	0	0	104955	107026	heh	hehe1240	-7.71572	35.7255	357.255	Hehe	30681	Narrow Bantu	"1,080,000 (2013 J. Leclerc)."	1080000			0	G62_Hehe	G62	1		
+0	0	0	104955	107026	bez	bena1262	-9.26671	35.0364	350.364	Bena (Tanzania)	30682	Narrow Bantu	"670,000 (Johnstone and Mandryk 2001)."	670000			0	G63_Bena	G63	1		
+1	0	0	104955	107027	pbr	pang1287	-9.96782	34.8039	348.039	Pangwa	30686	Narrow Bantu	"95,000 (2002)."	95000			2	G64_Pangwa	G64	1		
+0	0	0	104955	30676	gmx	mago1246	-9.23498	33.9826	339.826	Magoma	30677	Narrow Bantu	"9,000 (2003 SIL)."	9000			2		G65 G651	0		no description
+1	0	0	104955	30676	zga	nucl1379	-9.35868	34.2321	342.321	Nuclear Kinga	30678	Narrow Bantu	"140,000 (2003). 57,000 in Makete District."	140000			2	G65_Kinga	G65 G651	1		
+0	0	0	104955	107029	wbi	vwan1235	-9.00683	34.0757	340.757	Vwanji	30675	Narrow Bantu	"28,000 (2003 SIL)."	28000			2	G66_Wanji	G66	1		
+0	0	0	104955	107027	kiz	kisi1243	-9.93	34.4825	344.825	Kisi	30680	Narrow Bantu	"10,200 (2001). Ethnic population: 18,000."	10200			1		G67	0		
+3	0	0	104955	106585	ktu	kitu1246	-2.29601	17.1548	171.548	Kituba (Democratic Republic of Congo)	30809	Narrow Bantu	"4,200,000 (1990 UBS). L2 users: 800,000."	4200000	800000		2		H10?	0		
+0	0	0	104955	106585	mkw	kitu1245	-4.15654	14.5648	145.648	Kituba (Congo)	30797	Narrow Bantu	"1,160,000 (1987 SIL)."	1160000			0		H10?	0		
+2	0	0	104955	106098	beq	beem1239	-3.95895	14.1	14.1	Beembe	30835	Narrow Bantu	"100,000 (2007 census)."	100000			0	H11_Beembe	H11 H111 H112	1		
+0	0	0	104955	106098	dde	doon1238	-4.30483	13.5641	135.641	Doondo	30842	Narrow Bantu	"30,000 (2007 census)."	30000			2		H11 H111 H112	0		
+0	0	0	104955	106759	xku	kaam1238	-4.0409	13284	13284	Kaamba	30838	Narrow Bantu	"1,500 (2007 census)."	1500			2		H11 H111 H112	0		
+1	0	0	104955	106449	vif	vili1238	-4.06716	11.3804	113.804	Vili	30843	Narrow Bantu	"7,310 in Congo (2000). Total users in all countries: 11,000."	7310			0	H12_Civili_Congo	H12	1		
+1	0	0	104955	106586	njx	kuny1238	-3.69702	12.5197	125.197	Kunyi	30845	Narrow Bantu	"52,000 (1984 census)."	52000			0	H13_Kikunyi_1989	H13	1		
+0	0	0	104955	106759	sdj	suun1239	-4.58488	13.3212	133.212	Suundi	30847	Narrow Bantu	"121,000 (2000)."	121000			1	H131_Kisundi_Congo_Kimongo_1988	H131	1		
+9	0	0	104955	106585	kng	koon1244	-5.57722	14.4771	144.771	Koongo	30798	Narrow Bantu	"3,000,000 in Democratic Republic of the Congo (1982 UBS). L2 users: 5,000,000 in Democratic Republic of the Congo. Total users in all countries: 10,016,500 (as L1: 5,016,500; as L2: 5,000,000)."	5016500	5000000		0	H16_Kikongo	H14 - H16	1	"8, H16g_Ntandu ; H16a_Kisolongo_DRC_2012 ; H16b_Kindibu_2013 ; H16g_Kimpangu_2012 ; H16h_Kinkanu_2012 ; H16_Kimbata_Ngidinga ; H16_Kimbeko"	
+1	0	0	104955	106684	ldi	laar1238	-6.56	14756	14756	Laari	30795	Narrow Bantu	"90,600 in Congo (2000)."	90600			0	H16f_Laadi	H14 - H16	1	"2, H111_Hangala"	
+0	0	0	104955	106438	kwy	sans1272	-5.33539	13.3587	133.587	San Salvador Kongo	30808	Narrow Bantu	"537,000 (2000)."	537000			0	H16a_Kisikongo_2013	H14 - H16	1		
+2	0	0	104955	106449	yom	yomb1244	-4.86227	12.6362	126.362	Yombe	30839	Narrow Bantu	"669,000 in Democratic Republic of the Congo (2002). Total users in all countries: 734,400."	669000			0	H16c_Yombe	H14 - H16	1	"6, H16d_Ciwoyo_DRC_2012 ; H16c_Kiyombe_DRC_1982 ; H16_Cizobe ; H16_Cimbala ; H16_Cilinji"	
+4	0	0	104955	30813	kmb	kimb1241	-8.97835	14.8893	148.893	Kimbundu	30816	Narrow Bantu	"1,700,000 (2015 L. Jordan). Ethnic population: 6,000,000 (2015 L. Jordan)."	1700000			0	H21a_Kimbundu	H21	1		
+0	0	0	104955	30813	smd	sama1300	-9.86931	13.8713	138.713	Sama (Angola)	30821	Narrow Bantu	"24,200 (2000)."	24200			0		H22	0		
+0	0	0	104955	30813	blv	bolo1261	-10.3511	15.0867	150.867	Bolo	30814	Narrow Bantu	"2,630 (2000)."	2630			0		H23	0		
+0	0	0	104955	30813	nsx	nson1238	-10.5166	16.7348	167.348	Nsongo	30815	Narrow Bantu	"50,000 (1978 UBS)."	50000			0		H24	0		
+0	0	0	104955	107686	noq	ngon1267	-5.5	18.2	18.2	Ngongo (Democratic Republic of Congo)	30824	Narrow Bantu	"4,080 (2000)."	4080			2		H31	1		
+2	0	0	104955	106439	yaf	yaka1269	-6.93964	16.9965	169.965	Yaka (Democratic Republic of Congo)	30831	Narrow Bantu	"700,000 in Democratic Republic of the Congo (2000 SIL). Total users in all countries: 900,000."	700000			0	H31_Yaka	H31	1		
+0	0	0	104955	106439	sub	suku1259	-5.76495	17.7736	177.736	Suku	30829	Narrow Bantu	"50,000 (1980 UBS)."	50000			0	H32_Suku	H32	1		
+0	0	0	104955	106278	shc	sond1250	-6.32223	18.3555	183.555	Sonde	30823	Narrow Bantu	"96,000 (2002)."	96000			0	H321_Soonde	H321	1		
+2	0	0	104955	106442	mxg	mban1264	-9.15592	17.4086	174.086	Mbangala	30825	Narrow Bantu	"400,000 (2012)."	400000			0		H34	0		
+0	0	0	104955	106278	mdp	mbal1257	-5.11888	18041	18041	Mbala	30745	Narrow Bantu	"200,000 (Nida 1972)."	200000			1	H41_Mbala	H41	1		
+0	0	0	104955	106271	hum	hung1278	-3.69695	18.4312	184.312	Hungana	30848	Narrow Bantu	400	400			1	H42_Hunganna	H42	1		
+2	0	0	104955	30483	koo	konz1239	0.32395	29.8696	298.696	Konzo	30494	Narrow Bantu	"609,000 in Uganda (2002 census), increasing."	609000			1		JD41	0		
+9	0	0	104955	30483	nnb	nand1264	-0.24904	29.0243	290.243	Nande	30484	Narrow Bantu	"903,000 (1991 UBS)."	903000			0		JD42	0		
+0	0	0	104955	106692	hke	hund1239	-1.46762	28.9308	289.308	Hunde	30451	Narrow Bantu	"200,000 (1980 UBS)."	200000			0		JD51	0		
+0	0	0	104955	106692	hav	havu1238	-1.99975	28.8624	288.624	Havu	30459	Narrow Bantu	"506,000 (2002)."	506000			1		JD52	0		
+0	0	0	104955	107694	nyg	nyin1248	-3.03802	28.6434	286.434	Nyindu	30460	Narrow Bantu	"8,400 (2002)."	8400			1		JD53 JD501	0		
+4	0	0	104955	106692	shr	shii1238	-2.55777	28.6122	286.122	Shi	30452	Narrow Bantu	"654,000 (1991 UBS)."	654000			0	JD53_Shi	JD53 JD501	1		
+2	0	0	104955	106692	tbt	temb1270	-1.91863	28.5778	285.778	Tembo (Kitembo)	30447	Narrow Bantu	"150,000 (1994 SIL)."	150000			1		JD531	0		
+0	0	0	104955	106464	kcw	kabw1242	-4.36966	29.1684	291.684	Kabwari	30450	Narrow Bantu	"8,400 (2002)."	8400			1		JD56	0		
+7	0	0	104955	30521	kin	kiny1244	-1.56771	29.6441	296.441	Kinyarwanda	30522	Narrow Bantu	"10,600,000 in Rwanda (2013). Total users in all countries: 11,299,900."	10600000			0		JD61	0		
+0	0	0	104955	30521	run	rund1242	-1.44174	31.3191	313.191	Rundi	30533	Narrow Bantu	"10,000,000 in Burundi (2006 World Factbook), increasing. No monolinguals. Ethnic population: 10,000,000. Total users in all countries: 10,661,000."	10000000			2	JD62_Rundi	JD62	1		
+0	0	0	104955	107697	flr	fuli1240	-3.04022	28.9865	289.865	Fuliiru	30458	Narrow Bantu	"400,000 (2012 SIL)."	400000			2		JD63 JD631	0		
+0	0	0	104955	107697	job	joba1238	-3.45787	28.9978	289.978	Joba	30457	Narrow Bantu	"10,000 (1989 SIL)."	10000			1		JD63 JD631	0		
+0	0	0	104955	107695	suj	shub1238	-2.97663	31.0681	310.681	Shubi	30534	Narrow Bantu	"153,000 (1987)."	153000			1	JD64_Shubi	JD64	1		
+0	0	0	104955	107695	han	hang1260	-2.52347	30.7074	307.074	Hangaza	30530	Narrow Bantu	"150,000 (1987)."	150000			0	JD65_Hangaza	JD65	1		
+0	0	0	104955	30521	haq	haaa1252	-3.77873	30.4894	304.894	Ha	30532	Narrow Bantu	"990,000 (Johnstone and Mandryk 2001). Many monolinguals."	990000			0	JD66_Kiha	JD66	1		
+0	0	0	104955	30521	vin	vinz1238	-4.99312	30.5699	305.699	Vinza	30535	Narrow Bantu	"10,000 (1987)."	10000			0	JD67_Kivinza	JD67	1		
+0	0	0	104955	106291	rub	gung1250	2.06754	31.4819	314.819	Gungu	30433	Narrow Bantu	"49,000 (2002 census), increasing."	49000			0		JE101	0		
+0	0	0	104955	106690	tlj	tali1258	0.676185	29.9494	299.494	Talinga-Bwisi	30465	Narrow Bantu	"68,500 in Uganda (2002 census), increasing. Total users in all countries: 99,400."	68500			5		JE102	0		
+2	0	0	104955	106690	ruc	ruul1235	1.41726	32.4179	324.179	Ruuli	30418	Narrow Bantu	"160,000 (2002 census), increasing. Ethnic population: 161,000 (2002 census). 140,000 Baruli, 21,000 Banyara."	160000			0		JE103	0		no description
+2	0	0	104955	107048	nyo	nyor1246	0.95294	31.3493	313.493	Nyoro	30435	Narrow Bantu	"667,000 (2002 census), increasing."	667000			0	JE11_Runyoro	JE11	1		
+1	0	0	104955	107048	ttj	toor1238	0.57291	30.6389	306.389	Tooro	30421	Narrow Bantu	"488,000 (1991 census), increasing. 20,500 Tuku (2002 census)."	488000			0	JE12_Rutooro	JE12	1		
+1	0	0	104955	106690	nix	hema1238	1.04953	30.0872	300.872	Hema	30428	Narrow Bantu	"125,000 (2000)."	125000			4		JE121	0		
+3	0	0	104955	107047	nyn	nyan1307	-0.46364	30548	30548	Nyankole	30442	Narrow Bantu	"2,330,000 (2002 census), increasing."	2330000			0	JE13_Runyankore	JE13	1		
+0	0	0	104955	107047	cgg	chig1238	-1.04387	29.9122	299.122	Chiga	30431	Narrow Bantu	"1,580,000 (2002 census), increasing."	1580000			0	JE14_Rukiga	JE14	1		
+4	0	0	104955	106599	lug	gand1255	0.66884	32.1515	321.515	Ganda	30423	Narrow Bantu	"4,130,000 in Uganda (2002 census), increasing. L2 users: 1,000,000 in Uganda (Wiesenfeld 1999). Total users in all countries: 5,133,450 (as L1: 4,133,450; as L2: 1,000,000)."	4133450	1000000		0	JE15_Luganda	JE15	1		
+0	0	0	104955	106689	lke	keny1278	1.1513	33.4791	334.791	Kenyi	30430	Narrow Bantu	"62,000 (2002 census), increasing."	62000			1		JE16	0		no description
+3	0	0	104955	106689	xog	soga1242	0.40456	33.3942	333.942	Soga	30438	Narrow Bantu	"2,060,000 (2002 census), increasing. 185,000 Lulamogi, 169,000 Lusiki (Busoga Cultural Research Centre)."	2060000	100000	Bentz	0	JE16_Lusoga	JE16	1		
+0	0	0	104955	106599	gwr	gwer1238	1.11392	33.8227	338.227	Gwere	30434	Narrow Bantu	"409,000 (2002 census), increasing."	409000			4	JE17_Gwere	JE17	1		
+1	0	0	104955	106691	now	nyam1277	-1.6096	30.9156	309.156	Nyambo	30481	Narrow Bantu	"400,000 (2003)."	400000			1	JE21_Runyambo	JE21	1		
+9	0	0	104955	106691	hay	haya1250	-1.70878	31.4846	314.846	Haya	30466	Narrow Bantu	"1,740,000 (2013 J. Leclerc)."	1740000			1	JE22_Haya	JE22	1		
+2	0	0	104955	106463	zin	zinz1238	-2.64132	32.1755	321.755	Zinza	30462	Narrow Bantu	"138,000 (1987), decreasing."	138000			0	JE23_Zinza	JE23	1		
+0	0	0	104955	106463	ked	kere1283	-2.09315	33.5326	335.326	Kerewe	30477	Narrow Bantu	"100,000 (1987)."	100000			1	JE24_Kerebe	JE24	1		
+0	0	0	104955	106597	jit	jita1239	-1.62681	33.9141	339.141	Jita	30476	Narrow Bantu	"205,000 (2005 SIL), increasing."	205000			1	JE25_Jita	JE25	1		
+1	0	0	104955	106597	kya	kway1241	-1.80737	33.71	33.71	Kwaya	30479	Narrow Bantu	"115,000 (2005 SIL). Ethnic population: 115,000. 70,000 Kwaya and 45,000 Ruri."	115000			2	JE25_Mkwaya	JE251 JE253	1		
+0	0	0	104955	106597	reg	kara1481	-1.83511	33.0488	330.488	Kara (Tanzania)	30478	Narrow Bantu	"86,000 (1987), decreasing."	86000			0	JE25_Kilegi	JE252	1		
+2	0	0	104955	106761	bxk	buku1249	0.68043	34.7719	347.719	Bukusu	30506	Narrow Bantu	"1,433,000 (2009 census), increasing."	1433000			4	JE31c_Bukusu	JE31	1		
+5	0	0	104955	106761	myx	masa1299	1.05906	34.2829	342.829	Masaaba	30514	Narrow Bantu	"1,120,000 (2002 census), increasing."	1120000			6	JE31_Lumasaaba	JE31	1		
+0	0	0	104955	106806	lts	tach1242	NA	NA	NA	Tachoni	30415	Narrow Bantu	"118,000 (2009 census)."	118000			10		JE31	0		
+0	0	0	104955	106806	nle	east2409	0.38163	34.6626	346.626	East Nyala	30505	Narrow Bantu	"273,000 (2009 census)."	273000			7		JE32	0		
+0	0	0	104955	106761	lkb	kabr1240	NA	NA	NA	Kabras	30411	Narrow Bantu	"253,000 (2009 census)."	253000			10		JE32	0		no description
+0	0	0	104955	106806	lks	kisa1263	0.1529	34.5708	345.708	Kisa	30410	Narrow Bantu	"137,000 (2009 census)."	137000			6		JE32	0		
+0	0	0	104955	106806	lrm	mara1392	NA	NA	NA	Marama	30408	Narrow Bantu	"152,500 (2009 census)."	152500			10		JE32	0		no description
+0	0	0	104955	106806	lto	tsot1241	0.2975	34.6961	346.961	Tsotso	30409	Narrow Bantu	"122,000 (2009 census)."	122000			7		JE32	0		
+0	0	0	104955	106806	lwg	wang1294	NA	NA	NA	Wanga	30412	Narrow Bantu	"309,000 (2009 census)."	309000			10		JE32	0		
+0	0	0	104955	106806	nyd	nyor1244	0.07523	34.6166	346.166	Nyore	30499	Narrow Bantu	"311,000 (2009 census), increasing."	311000			6		JE33	0		
+0	0	0	104955	106807	lsm	saam1283	0.3652	34.0335	340.335	Saamia	30416	Narrow Bantu	"355,000 in Uganda (2002 census), increasing. 280,000 Basaamia and 75,300 Bagwe (2002 census). Total users in all countries: 480,000."	355000			1	JE34_Samialugwe	JE34 JE343	1	"2? , JE32_Luyia"	
+0	0	0	104955	106807	lko	khay1238	NA	NA	NA	Khayo	30414	Narrow Bantu	"125,000 (2009 census)."	125000			10		JE341	0		
+0	0	0	104955	106807	lri	mara1393	NA	NA	NA	Marachi	30413	Narrow Bantu	"155,000 (2009 census)."	155000			10		JE342	0		
+4	0	0	104955	106462	nuj	nyol1238	0.88072	33.9181	339.181	Nyole	30509	Narrow Bantu	"341,000 (2002 census), increasing."	341000			4		JE35	0		
+0	0	0	104955	106687	ngq	ngur1263	-1.8485	34.6173	346.173	Ngurimi	30086	Narrow Bantu	"55,000 (2005 SIL)."	55000			4	JE401_Ngoreme	JE401	1		
+0	0	0	104955	106687	ikz	ikiz1238	-1.9915	34.3589	343.589	Ikizu	30088	Narrow Bantu	"55,000 (2005 SIL)."	55000			4	JE402_Ikizu	JE402 JE404	1	"2, JE404_Shasi"	
+0	0	0	104955	106686	sxb	suba1238	-0.95719	34.1033	341.033	Suba	30092	Narrow Bantu	"139,000 (2009 census), increasing."	139000			2	JE403_Suba	JE403	1		
+0	0	0	104955	106686	ssc	suba1252	-0.95719	34.1033	341.033	Suba-Simbiti	30089	Narrow Bantu	"113,000 (2011). Spoken by 6 ethnic groups in Tarime District: Hacha (4,200), Kine (14,500), Surwa (4,200), Sweta (12,800) and Simbiti (33,000), and Kiroba (30,000)."	113000			2		JE403	0		
+0	0	0	104955	106596	cwa	kabw1241	-1.7124	34.3923	343.923	Kabwa	30085	Narrow Bantu	"14,000 (2011 SIL)."	14000			4		JE405	0		
+0	0	0	104955	106599	sgm	sing1266	-0.24587	33.8997	338.997	Singa	30432	Narrow Bantu	No known L1 speakers.	0			0		JE406	0		no description
+0	0	0	104955	106462	rag	logo1258	0.09487	34729	34729	Logooli	30504	Narrow Bantu	"618,000 in Kenya (2009 census), increasing. Total users in all countries: 618,300."	618000			6	JE41_Maragoli	JE41	1		
+3	0	0	104955	106598	ida	idak1243	0.21557	34817	34817	Idakho-Isukha-Tiriki	30500	Narrow Bantu	"598,000 (2009 census), increasing. Idakho 171,000; Isukha 217,000; Tiriki 210,000 (2009 census)."	598000			7		JE411 JE413	0		
+0	0	0	104955	106686	guz	gusi1247	-0.78872	34.7675	347.675	Gusii	30080	Narrow Bantu	"2,205,000 in Kenya (2009 census), increasing. L2 users: 500,000 in Kenya. Total users in all countries: 2,705,300 (as L1: 2,205,300; as L2: 500,000)."	2205300	500000		1	JE42_Gusii	JE42	1		
+7	0	0	104955	106686	kuj	kuri1259	-1.50636	34.5049	345.049	Kuria	30072	Narrow Bantu	"430,000 in Tanzania (2005 SIL). Total users in all countries: 690,000."	430000			3	JE43_Kuria	JE43 JE431 - JE434	1	"3, JE43_Kuria_Mago ; JE43_Kuria_Tari"	
+3	0	0	104955	106687	zak	zana1238	-2.26367	34.0542	340.542	Zanaki	30081	Narrow Bantu	"100,000 (2005 SIL)."	100000			1	JE44_Zanaki	JE44	1		
+1	0	0	104955	106687	ntk	ikom1245	-1.94989	34.5361	345.361	Ikoma-Nata-Isenye	30090	Narrow Bantu	"36,000 (2005 SIL). Includes 15,000 Ikoma, 11,500 Nata, 9,500 Isenye."	36000			4	JE45_Nata	JE45	1		
+1	0	0	104955	106426	cjk	chok1245	-9.66082	21.3992	213.992	Chokwe	30748	Narrow Bantu	"456,000 in Angola (1991). Total users in all countries: 977,700."	456000			0	K11_Ciokwe	K11	1		
+0	0	0	104955	106575	lum	luim1238	-11.2221	17.5385	175.385	Luimbi	30755	Narrow Bantu	"43,900 (2000)."	43900			0		K12a	0		
+0	0	0	104955	106427	lch	luch1239	-14.0648	22.2437	222.437	Luchazi	30751	Narrow Bantu	"400,000 in Angola (2011 S. Floor). Total users in all countries: 430,600."	400000			0		K13 K12b K17	0		
+0	0	0	104955	106575	mfu	mbwe1238	-13.3267	18.2243	182.243	Mbwela	30750	Narrow Bantu	"222,000 (Johnstone and Mandryk 2001)."	222000			0		K13 K12b K17	0		
+0	0	0	104955	106427	nba	nyem1238	-15709	18.2515	182.515	Nyemba	30754	Narrow Bantu	"222,000 in Angola (Johnstone and Mandryk 2001). Total users in all countries: 231,540."	222000			0		K13 K12b K17	0		
+0	0	0	104955	106426	lue	luva1239	-13.5382	22.2924	222.924	Luvale	30753	Narrow Bantu	"171,000 in Zambia (2010 census). Total users in all countries: 635,000."	171000			0	K14_Lwena	K14	1		
+0	0	0	104955	106575	mck	mbun1249	-14603	21.9768	219.768	Mbunda	30747	Narrow Bantu	"135,000 in Angola (Johnstone and Mandryk 2001). Total users in all countries: 218,000."	135000			0	K15_Mbunda	K15 K18	1		
+0	0	0	104955	106427	nkn	nkan1238	-13.3688	19.0476	190.476	Nkangala	30752	Narrow Bantu	"22,300 (2000)."	22300			0		K15 K18	0		no description
+0	0	0	104955	107683	nye	nyen1257	-17.2314	22.4787	224.787	Nyengo	30756	Narrow Bantu	"9,380 (2000)."	9380			0		K16	0		
+0	0	0	104955	106770	loz	lozi1239	-17.7052	24.7398	247.398	Lozi	30219	Narrow Bantu	"612,000 in Zambia (2010 census). Total users in all countries: 721,000."	612000			2	K21_Lozi	K20 (K21)	1		
+6	0	0	104955	106268	lyn	luya1241	-15.2221	18.8037	188.037	Luyana	30770	Narrow Bantu	"2,880 in Zambia (2010 census). 1,000 Kwandi, 1,400 Kwangwa, 480 Luyana (2010 census)."	2880			0	K31_Luyana	K31	1		
+0	0	0	104955	106268	mxo	mbow1246	-14.2941	23.9819	239.819	Mbowe	30777	Narrow Bantu	460 (2010 census).	460			0		K32	0		
+1	0	0	104955	106434	kwn	kwan1273	-17.9026	19256	19256	Kwangali	30778	Narrow Bantu	"157,000 in Namibia (2002 J. Leclerc). Total users in all countries: 167,900."	157000			1	K33_Kwangali	K33	1		
+0	0	0	104955	106434	diu	diri1252	-18.1681	20.6678	206.678	Diriku	30733	Narrow Bantu	"10,000 in Namibia (2002 J. Leclerc). Total users in all countries: 36,000."	10000			0	K332_Rumanyo	K331 K334 K332	1		
+0	0	0	104955	106435	mhw	mbuk1240	-17.6827	22.5026	225.026	Mbukushu	30780	Narrow Bantu	"6,900 in Namibia (2002 J. Leclerc). Total users in all countries: 35,900."	6900			0		K333	0		
+3	0	0	104955	106435	mho	mash1267	-16.7256	22.5983	225.983	Mashi (Zambia)	30758	Narrow Bantu	"18,800 in Zambia (2010 census). Total users in all countries: 21,630."	18800			1		K34	0		
+7	0	0	104955	107683	sie	sima1258	-15.7434	22.6455	226.455	Simaa	30762	Narrow Bantu	"16,700 (2010 census). 1,980 Imilangu, 9,300 Koma, 2,870 Mwenyi, 2,530 Simaa. Ethnic population: 27,600 (2010 census). 3,630 Imilangu, 14,300 Koma, 4,600 Mwenyi, 5,000 Simaa (2010 census)."	16700			0		K35	0		
+0	0	0	104955	106453	fwe	fwee1238	-17.7237	24.4315	244.315	Fwe	30742	Narrow Bantu	"9,950 in Namibia (2002 J. Leclerc)."	9950			1		K402	0		
+0	0	0	104955	106452	sbs	subi1246	-17.5696	24.8867	248.867	Subiya	30744	Narrow Bantu	"23,000 in Namibia (2002 J. Leclerc). Total users in all countries: 30,830."	23000			1		K42 (K401)	0		
+0	0	0	104955	106442	pem	phen1239	-5.64735	19.8275	198.275	Phende	30736	Narrow Bantu	"420,000 (1991 UBS)."	420000			0	L11_Pende	L11	1		
+2	0	0	104955	106277	hol	holu1245	-8.14754	17572	17572	Holu	30737	Narrow Bantu	"23,100 in Angola (2000). Total users in all countries: 28,200."	23100			0	L12b_Holu	L12	1		
+0	0	0	104955	107687	smx	samb1309	-6.21344	17.1658	171.658	Samba	30740	Narrow Bantu	"4,200 (2002)."	4200			0		L12 (H33)	0		
+0	0	0	104955	106442	kws	kwes1244	-5.60445	18.5759	185.759	Kwese	30735	Narrow Bantu	"60,000.00"	60000			1	L13_Kwese	L13	1		
+0	0	0	104955	106576	kcv	kete1252	-7.15104	22.9027	229.027	Kete	30626	Narrow Bantu	"8,400 (2002)."	8400			0		L21	0		
+0	0	0	104955	106276	lwa	lwal1238	-7.16388	22.1097	221.097	Lwalu	30644	Narrow Bantu	"21,000 (Welmers 1971a)."	21000			0	L221_Lwalwa	L221	1		
+3	0	0	104955	106276	sop	song1303	-5.71993	25.2765	252.765	Songe	30627	Narrow Bantu	"1,000,000 (Hoffman 1991). 150,000 in Western Kalebwe (1982 UBS)."	1000000			0	L23_Songe	L23	1		
+0	0	0	104955	106276	bpj	binj1249	-6.7	21.7	21.7	Binji	30639	Narrow Bantu	"165,000 (2000)."	165000			0		L231	0		
+0	0	0	104955	106276	luj	luna1244	-5.08693	23.5426	235.426	Luna	30631	Narrow Bantu	"50,000.00"	50000			0		L24	0		
+2	0	0	104955	106587	lua	luba1249	-5.72717	22.4422	224.422	Luba-Lulua	30646	Narrow Bantu	"6,300,000 (1991 UBS). L2 users: 700,000."	6300000	700000		0	L31a_Luba-Kasai	L31	1		
+0	0	0	104955	106441	kny	kany1247	-7.31878	23613	23613	Kanyok	30643	Narrow Bantu	"200,000 (1991 UBS)."	200000			0	L32_Kanyok	L32	1		
+0	0	0	104955	106440	lub	luba1250	-8.2816	25.8918	258.918	Luba-Katanga	30645	Narrow Bantu	"1,510,000 (1991 UBS)."	1510000			0	L33_Luba-Shaba	L33	1		
+0	0	0	104955	106587	hem	hemb1242	-7.77459	27.5913	275.913	Hemba	30642	Narrow Bantu	"181,000 (2000)."	181000			0	L34_Hemba	L34	1		
+0	0	0	104955	106440	sng	sang1331	-10.0236	26.8462	268.462	Sanga (Democratic Republic of Congo)	30641	Narrow Bantu	"431,000 (1991 UBS)."	431000			0	L35_Sanga	L35	1		
+0	0	0	104955	106440	kqn	kaon1241	-12.4129	25.7646	257.646	Kaonde	30623	Narrow Bantu	"206,000 in Zambia (2010 census). Total users in all countries: 242,000."	206000			0	L41_Kaonde	L40 (L41)	1		
+1	0	0	104955	106265	slx	sala1268	-5.44937	23.1502	231.502	Salampasu	30782	Narrow Bantu	"60,000 (Voegelin and Voegelin 1977)."	60000			0	L51_Salampasu	"L51 , L511"	1		
+7	0	0	104955	106428	lun	lund1266	-11.1793	23.8662	238.662	Lunda	30784	Narrow Bantu	"225,000 in Zambia (2010 census). 214,000 Lunda, 10,900 Ndembu (2010 census). Total users in all countries: 403,000."	225000			0	L52_Lunda	L52	1		
+0	0	0	104955	106576	rnd	ruun1238	-8.86971	21.4164	214.164	Ruund	30792	Narrow Bantu	"153,000 in Democratic Republic of the Congo (2000). Total users in all countries: 251,500."	153000			0	L53_Runda	L53	1		
+6	0	0	104955	106101	nka	nkoy1244	-14.8513	24.7649	247.649	Nkoya	30616	Narrow Bantu	"36,200 (2010 census). 1,190 Mashasha, 35,000 Nkoya (2010 census)."	36200			0	L62_Nkoya	"L60 (L601-L603, L61-L62)"	1		
+0	0	0	104955	106594	piw	pimb1238	-6.81358	31.4289	314.289	Pimbwe	30864	Narrow Bantu	"29,000 (1987)."	29000			0	M11_Pimbwe	M11	1		
+0	0	0	104955	107042	rnw	rung1255	-7.24959	31.7614	317.614	Rungwa	30868	Narrow Bantu	"18,000 (1987)."	18000			0	M12_Lungwa	M12	1		
+8	0	0	104955	107035	fip	fipa1238	-7.88963	31.3442	313.442	Fipa	30870	Narrow Bantu	"195,000 in Tanzania (2002 census). About 140,000 speakers of Northern, 45,000 of Kwa, and 10,000 of Milanzi varieties."	195000			0	M13_Fipa	M13	1		
+2	0	0	104955	107035	mgr	mamb1296	-8.86817	31.2269	312.269	Mambwe-Lungu	30865	Narrow Bantu	"207,000 in Zambia (2010 census). 64,500 Lungu, 142,000 Mambwe (2010 census). Total users in all countries: 502,000."	207000			0	M15_Mambwe	M14 M15	1	"2, M14_Rungu"	
+0	0	0	104955	106685	nkv	nyik1246	NA	NA	NA	Nyika (Malawi and Zambia)	30553	Narrow Bantu	"5,000 in Malawi (2007). Total users in all countries: 10,000."	5000			10		M20	0		
+0	0	0	104955	106593	nkt	nyik1247	NA	NA	NA	Nyika (Tanzania)	30554	Narrow Bantu	"25,000 (2007)."	25000			10		M20	0		no description
+1	0	0	104955	106456	lai	lamb1272	-9.49372	33.1585	331.585	Lambya	30538	Narrow Bantu	"59,500 in Malawi (2009 UNSD). Total users in all countries: 101,500."	59500			2	M28_Lambya	M201 M202	1		
+1	0	0	104955	107036	wbh	wand1264	-8.34522	32.4375	324.375	Wanda	30555	Narrow Bantu	"24,000 (1987)."	24000			1	M21_Wanda	M21	1		
+2	0	0	104955	107036	mwn	nyam1275	-9.11261	32.3163	323.163	Nyamwanga	30542	Narrow Bantu	"140,000 in Zambia (2010 census). 135,000 Nyamwanga, 4,220 Tambo (2010 census). Total users in all countries: 227,000."	140000			0	M22_Namwanga	M22 M26 M27	1		
+0	0	0	104955	106760	nyr	nyih1239	NA	NA	NA	Nyiha (Malawi)	30550	Narrow Bantu	"10,000 (2007)."	10000			10		M23	0		no description
+1	0	0	104955	106760	nih	nyih1240	-9.4472	32.9057	329.057	Nyiha (Tanzania)	30551	Narrow Bantu	"246,000 in Tanzania (2004 SIL), increasing. Total users in all countries: 602,000."	246000			1	M23_Nyiha	M23	1		
+0	0	0	104955	106456	mgq	mali1279	-9.16619	33339	33339	Malila	30557	Narrow Bantu	"65,000 (2003 SIL)."	65000			1	M24_Malila	M24	1		
+4	0	0	104955	106456	sbk	safw1238	-8.54936	33.4766	334.766	Safwa	30545	Narrow Bantu	"158,000 (1987), increasing."	158000			0	M25_Safwa	M25	1		
+1	0	0	104955	106289	ndh	ndal1241	-9.88948	33.6118	336.118	Ndali	30540	Narrow Bantu	"150,000 in Tanzania (1987), increasing. Total users in all countries: 220,000."	150000			1	M21_Ndali	M301	1		
+6	0	0	104955	106289	nyy	nyak1260	-9.71018	33.7763	337.763	Nyakyusa-Ngonde	30589	Narrow Bantu	"1,080,000 in Tanzania (2013 J. Leclerc), increasing. Total users in all countries: 1,229,000."	1080000			1	M31_Nyakyusa	M31	1		
+0	0	0	104955	106107	bwc	bwil1245	-8.3041	29.4071	294.071	Bwile	30624	Narrow Bantu	"19,600 in Zambia (2010 census). Ethnic population: 55,600 (2010 census). Total users in all countries: 32,000."	19600			1		M401	0		no description
+0	0	0	104955	30558	auh	aush1241	-11.6295	29.0168	290.168	Aushi	30559	Narrow Bantu	"100,000 in Zambia (2010 census)."	100000			0		M402	0		
+1	0	0	104955	30558	tap	taab1238	-7.91416	29.5238	295.238	Taabwa	30560	Narrow Bantu	"250,000 in Democratic Republic of the Congo (Barrett 1982). Total users in all countries: 281,600."	250000			1	M41_Taabwa	M41	1		
+13	0	0	104955	30558	bem	bemb1257	-10.6122	29.2993	292.993	Bemba (Zambia)	30562	Narrow Bantu	"3,810,000 in Zambia (2010 census), decreasing. 3,730,000 Bemba, 12,800 Chishinga, 37,900 Kabende, 15,000 Lunda, 1,680 Mukulu, 11,500 Unga (2010 census). Ethnic population: 2,890,000 (2010 census). 2,630,000 Bemba, 64,400 Chishinga, 45,000 Kabende, 119,000 Lunda, 5,130 Mukulu, 24,900 Unga (2010 census). Total users in all countries: 4,110,000."	3810000			0	M42_Bemba	M42	1		
+6	0	0	104955	30576	leb	lala1264	-12945	30.2297	302.297	Lala-Bisa	30578	Narrow Bantu	"353,000 in Zambia (2010 census). 750 Ambo, 112,000 Bisa, 201,000 Lala, 1,620 Luano, 37,700 Swaka (2010 census). Ethnic population: 590,000 (2010 census). 2,450 Ambo, 198,000 Bisa, 392,000 Lala (2010 census)."	353000			0	M52_Lala	"M51, M53, M521 M522"	1		
+2	0	0	104955	30576	lam	lamb1271	-12.3366	27.9026	279.026	Lamba	30586	Narrow Bantu	"201,000 in Zambia (2010 census). 198,000 Lamba, 2,250 Lima (2010 census)."	201000			0	M54_Lamba	"M54, M541 M542"	1		
+0	0	0	104955	30576	kdg	seba1247	-11.9396	27.5144	275.144	Seba	30585	Narrow Bantu	"167,000 (2002)."	167000			0		M55	0		no description
+2	0	0	104955	106451	leh	lenj1248	-14.7192	28.2581	282.581	Lenje	30612	Narrow Bantu	"128,000 (2010 census)."	128000			0	M61_Lenje	M61 M611	1		
+0	0	0	104955	30596	sby	soli1239	-15.5213	28.7934	287.934	Soli	30598	Narrow Bantu	"34,100 (2010 census)."	34100			2	M62_Soli	M62	1		
+3	0	0	104955	106451	ilb	ilaa1246	-15.6081	26.4555	264.555	Ila	30607	Narrow Bantu	"82,900 (2010 census). Ethnic population: 97,400 (2010 census)."	82900			0		M63 M631 M633	0		
+0	0	0	104955	106451	shq	sala1266	-15.5848	27.4534	274.534	Sala	30611	Narrow Bantu	"23,500 (2010 census)."	23500			0		M63 M631 M633	0		no description
+7	0	0	104955	106451	toi	tong1318	-17.4223	27.1035	271.035	Tonga (Zambia)	30599	Narrow Bantu	"1,330,000 in Zambia (2010 census), increasing. 55,600 Toka-Leya, 1,270,000 Tonga (2010 census). Total users in all countries: 1,467,000."	1330000			0	M64_Tonga	M64	1		
+0	0	0	104955	107032	dne	nden1249	-10.4203	36.0105	360.105	Ndendeule	30401	Narrow Bantu	"100,000 (2000 D. Ngonyani)."	100000			0		N101	0		
+0	0	0	104955	107032	nxi	nind1242	-11.2569	36.3116	363.116	Nindi	30404	Narrow Bantu	100	100			0		N102	0		no description
+1	0	0	104955	107028	mgs	mand1423	-10.3991	34.7424	347.424	Manda (Tanzania)	30684	Narrow Bantu	"22,000 (2002)."	22000			1	N11_Manda	N11	1		
+0	0	0	104955	107028	ngo	ngon1269	-11.7794	37.4118	374.118	Ngoni	31028	Narrow Bantu	"170,000 in Tanzania (1987). Total users in all countries: 223,000."	170000			0	N12_Ngoni	N12	1		
+0	0	0	104955	107030	mgv	mate1258	-11554	35.0056	350.056	Matengo	31029	Narrow Bantu	"150,000 (1987)."	150000			1	N13_Matengo	N13	1		
+0	0	0	104955	107030	mpa	mpot1240	-11.1377	34.7127	347.127	Mpoto	31031	Narrow Bantu	"80,000 (Voegelin and Voegelin 1977)."	80000			1	N14_Mpoto	N14	1		
+0	0	0	104955	107034	tog	tong1321	-12.0816	34.0613	340.613	Tonga (Nyasa)	31030	Narrow Bantu	"271,000 (2009 UNSD)."	271000			0		N15	0		
+0	0	0	104955	107184	mjh	mwer1247	-11.3304	34.8959	348.959	Mwera (Nyasa)	30356	Narrow Bantu	"6,000 (2004)."	6000			2		N201	0		
+14	0	0	104955	107034	tum	tumb1250	-11.3297	33.3738	333.738	Tumbuka	30986	Narrow Bantu	"1,180,000 in Malawi (2009 UNSD). 24,400 Senga, 1,150,000 Tumbuka (2009 UNSD). Total users in all countries: 1,546,000."	1180000			0	N21_Tumbuka_Malawi	N21	1		
+7	0	0	104955	107184	nya	nyan1308	-14.8047	32.8108	328.108	Nyanja	31001	Narrow Bantu	"6,500,000 in Malawi (2009 UNSD). 4,250,000 Chewa, 1,490,000 Ngoni, 754,000 Nyanja (2009 UNSD). Total users in all countries: 9,536,700."	6500000			0	N31_Chewa	N30 (N31 N121)	1		
+2	0	0	104955	106455	nse	nsen1242	-15.3946	31.3544	313.544	Nsenga	31010	Narrow Bantu	"405,000 in Zambia (2010 census). 76,000 Ngoni, 329,000 Nsenga (2010 census). Ethnic population: 1,570,000 (2010 census). 503,000 Ngoni, 661,000 Nsenga (2010 census). Total users in all countries: 562,100."	405000			0		N41	0		
+0	0	0	104955	106300	phm	phim1238	-15.8364	33.3514	333.514	Phimbi	31026	Narrow Bantu	"6,000.00"	6000			0		N41	0		no description
+0	0	0	104955	106115	kdn	kund1255	-15.7337	30.2804	302.804	Kunda (Sena)	31015	Narrow Bantu	"145,000 in Zimbabwe (2000). Total users in all countries: 157,260."	145000			0	N42_Kunda	N42	1		
+0	0	0	104955	106300	nyu	nyun1248	-16.4757	33.0233	330.233	Nyungwe	31025	Narrow Bantu	"262,000 (2014 J. Leclerc)."	262000			0		N43	0		
+0	0	0	104955	106300	bwg	barw1243	-17675	33.4534	334.534	Barwe	31016	Narrow Bantu	"15,000 in Mozambique (1999)."	15000			0		N44 N441 N45 N46	0		
+0	0	0	104955	106300	swk	mala1475	-16.6183	34991	34991	Malawi Sena	31014	Narrow Bantu	"468,000 (2009 UNSD)."	468000			0		N44 N441 N45 N46	0		
+7	0	0	104955	106300	seh	nucl1396	-19.7933	34.9829	349.829	Nuclear Sena	31017	Narrow Bantu	"1,390,000 (2014 J. Leclerc)."	1390000			1		N44 N441 N45 N46	0		
+0	0	0	104955	106584	mwz	moin1241	1.20615	23.5035	235.035	Moingi	31353	Narrow Bantu	"4,200 (2002)."	4200			1		none	0		no description
+0	0	0	104955	107031	ndg	nden1248	-7.54628	38958	38958	Ndengereko	30405	Narrow Bantu	"72,000 (Str\""om 2013)."	72000			0	P11_Ndengeleko	P11 P12	1	"2, P12_Rufiji"	
+1	0	0	104955	107031	mgw	matu1259	-8.53734	39.0409	390.409	Matumbi	30399	Narrow Bantu	"72,000 (1978 MARC)."	72000			0	P13_Matumbi	P13	1		
+0	0	0	104955	107030	nnq	ngin1244	-9.78145	37.9832	379.832	Ngindo	30402	Narrow Bantu	"220,000 (1987)."	220000			0	P14_Ngindo	P14	1		
+0	0	0	104955	106297	mgy	mbun1248	-8.19661	36.5362	365.362	Mbunga	30403	Narrow Bantu	"29,000 (1987)."	29000			0	P15_Mbunga	P15	1		
+6	0	0	104955	107033	yao	yaoo1241	-13.6119	35.2387	352.387	Yao	30349	Narrow Bantu	"1,760,000 in Malawi (2009 UNSD). Total users in all countries: 2,521,000."	1760000			0	P21_Yao	P21	1		
+0	0	0	104955	107033	mwe	mwer1248	-9.75639	38.8762	388.762	Mwera (Chimwera)	30357	Narrow Bantu	"469,000 (Johnstone and Mandryk 2001)."	469000			0	P22_Mwera	P22	1		
+0	0	0	104955	106298	mvw	mach1265	-9.37101	39.4268	394.268	Machinga	30341	Narrow Bantu	"36,000 (1987)."	36000			0		P23 P24 P25	0		
+6	0	0	104955	106298	kde	mako1251	-10.9906	39.5133	395.133	Makonde	30342	Narrow Bantu	"1,320,000 in Tanzania (2013 J. Leclerc). Total users in all countries: 1,680,000."	1320000			0	P23_Simakonde	P23 P24 P25	1		
+0	0	0	104955	30359	kzn	koko1267	-16.2681	35.5767	355.767	Kokola	30384	Narrow Bantu	"200,000 in Malawi (2000). Total users in all countries: 280,000."	200000			1		P31	0		no description
+0	0	0	104955	106701	llb	lolo1261	-17.0232	35.9451	359.451	Lolo	30382	Narrow Bantu	"162,000 (2006)."	162000			0		P31	0		
+6	0	0	104955	106702	vmw	makh1264	-14.8509	38.8052	388.052	Makhuwa	30364	Narrow Bantu	"3,220,000 (2014 J. Leclerc)."	3220000			0	P31_Emakhua	P31	1		
+4	0	0	104955	106702	xmc	makh1262	-16.9394	39.1203	391.203	Makhuwa-Marrevone	30374	Narrow Bantu	"300,000 (2014 J. Leclerc)."	300000			0		P31	0		
+1	0	0	104955	106702	mgh	makh1261	-11.9553	38.6874	386.874	Makhuwa-Meetto	30396	Narrow Bantu	"800,000 in Mozambique (2014 J. Leclerc). Total users in all countries: 1,318,000."	800000			0	P31G_Ikorovere	P31	1		
+2	0	0	104955	106702	xsq	makh1266	-13.6443	39.5323	395.323	Makhuwa-Saka	30371	Narrow Bantu	"212,000 (2006)."	212000			0		P31	0		
+0	0	0	104955	106702	vmk	makh1260	-14251	36.5249	365.249	Makhuwa-Shirima	30386	Narrow Bantu	"500,000 (2014 J. Leclerc)."	500000			0		P31	0		
+0	0	0	104955	30359	mny	many1259	-16.4963	36.8459	368.459	Manyawa	30362	Narrow Bantu	"150,000 (2014 J. Leclerc). 85% monolingual in Lugela District."	150000			0		P31	0		no description
+0	0	0	104955	106701	vmr	mare1260	-16.2129	35.7425	357.425	Marenje	30363	Narrow Bantu	"403,000 (2014 J. Leclerc)."	403000			1		P31	0		
+0	0	0	104955	106701	tke	takw1238	-16.2276	36249	36249	Takwane	30361	Narrow Bantu	"181,000 (2006)."	181000			0		P31	0		
+2	0	0	104955	30359	eko	koti1238	-16.4823	39.7602	397.602	Koti	30393	Narrow Bantu	"77,000 (2006)."	77000			1		P311	0		
+0	0	0	104955	30359	nte	nath1238	-16.0973	39.9062	399.062	Nathembo	30383	Narrow Bantu	"25,000 (2006)."	25000			1		P312	0		
+0	0	0	104955	107696	lon	mala1256	-15.5673	35.4335	354.335	Malawi Lomwe	36357	Narrow Bantu	"2,290,000 (2009 UNSD)."	2290000			0		P32 - P33	0		
+0	0	0	104955	107696	ngl	lomw1241	-16.0381	37.2437	372.437	Lomwe	30385	Narrow Bantu	"1,660,000 (2014 J. Leclerc)."	1660000			0		P32 P33	0		
+5	0	0	104955	106701	chw	chuw1238	-17.3428	37.1231	371.231	Chuwabu	30387	Narrow Bantu	"664,000 (2014 J. Leclerc)."	664000			0		P34	0		
+2	0	0	104955	30359	cwb	main1272	-18.3143	36.5941	365.941	Maindo	30379	Narrow Bantu	"21,000 (2006)."	21000			0		P34	0		no description
+0	0	0	104955	106702	mhm	makh1265	-17294	38093	38093	Makhuwa-Moniga	30360	Narrow Bantu	"200,000 (2003 SIL)."	200000			0		P341	0		no description
+0	0	0	104955	107666	umb	umbu1257	-12.4763	14.4148	144.148	Umbundu	31049	Narrow Bantu	"6,000,000 (2012 World Factbook)."	6000000			0	R11_Umbundu	R11	1		
+0	0	0	104955	107666	ndq	ndom1244	-12.9655	13371	13371	Ndombe	31053	Narrow Bantu	"22,300 (2000)."	22300			0		R12	0		
+2	0	0	104955	107669	nyk	nyan1305	-15.9616	14.94	14.94	Nyaneka	31050	Narrow Bantu	"300,000 (1996 UBS). All Nyaneka variants together amount to 1,200,000 speakers (2012 Nyaneka Language Association)."	300000			0		R13	0		
+0	0	0	104955	107669	khu	nkhu1238	-15.4126	13.9704	139.704	Nkhumbi	31048	Narrow Bantu	"150,000 (1996 UBS)."	150000			1		R14	0		
+0	0	0	104955	31033	kua	kuan1247	-17.7176	16.58	16.58	Kuanyama	31039	Narrow Bantu	"421,000 in Angola (Johnstone 1993). L2 users: 40,000 in Angola (2013 SIL). Total users in all countries: 1,046,000 (as L1: 1,006,000; as L2: 40,000)."	1006000	40000		0	R21_Kwanyama	"R20 (R21 - R24, R11-R118 R421-R422)"	1		
+0	0	0	104955	31033	lnb	mbal1255	-19593	16617	16617	Mbalanhu	31040	Narrow Bantu	200 (2002 J. Leclerc).	200			1		"R20 (R21 - R24, R11-R118 R421-R422)"	0		
+0	0	0	104955	31033	nne	ngan1300	-16.6359	21.1928	211.928	Ngandyera	31041	Narrow Bantu	"13,100 (2000)."	13100			0		"R20 (R21 - R24, R11-R118 R421-R422)"	0		
+3	0	0	104955	107670	ndo	ndon1254	-17.6417	19.1631	191.631	Ndonga	31035	Narrow Bantu	"700,000 (2002 J. Leclerc)."	700000			1	R22_Ndonga	R22	1		
+0	0	0	104955	107670	kwm	kwam1251	-18.0339	15.7294	157.294	Kwambi	31034	Narrow Bantu	"30,000 (2002 J. Leclerc)."	30000			0		R23	0		
+2	0	0	104955	31042	her	here1253	-21.0231	20.5655	205.655	Herero	31043	Narrow Bantu	"62,600 in Namibia (2010 UNSD). Total users in all countries: 73,600."	62600			0	R31_Herero	"R30 (R31, R311, R312, R101)"	1		
+0	0	0	104955	31042	dhm	zemb1238	-17.2958	13.4424	134.424	Zemba	31046	Narrow Bantu	"18,000 in Angola (2011). Total users in all countries: 30,000."	18000			0		R311	0		
+1	0	0	104955	105906	yey	yeyi1239	-18.9178	23.6088	236.088	Yeyi	31054	Narrow Bantu	"4,800 in Botswana (2003 UNSD). Ethnic population: 47,000. Total users in all countries: 9,800."	4800			0		R40 (R41)	0		
+28	0	0	104955	107668	sna	shon1251	-17.2085	29.7572	297.572	Shona	30285	Narrow Bantu	"10,700,000 in Zimbabwe (Chebanne and Nthapelelang 2000). 4,500,000 Karanga (Chebanne and Nthapelelang 2000), 1,700,000 Korekore (Chebanne and Nthapelelang 2000), 3,200,000 Zezuru (Chebanne and Nthapelelang 2000), 1,300,000 Shona. L2 users: 1,800,000 in Zimbabwe (Chebanne and Nthapelelang 2000). Total users in all countries: 12,563,100 (as L1: 10,763,100; as L2: 1,800,000)."	10763100	1800000		0	S11_Shona	S11 - S15	1		
+0	0	0	104955	30268	dmx	dema1235	-15.6894	32.7731	327.731	Dema	30278	Narrow Bantu	"5,000 (2000 J. and M. Bister). Population displaced during Cabora Bassa Dam construction."	5000			0		S11 - S15	0		no description
+2	0	0	104955	107668	twl	tawa1270	-16.0167	31621	31621	Tawara	30328	Narrow Bantu	"60,000 (2006)."	60000			0		S11 - S15	0		
+12	0	0	104955	106472	mxc	many1258	-18.1927	32.8052	328.052	Manyika	30315	Narrow Bantu	"861,000 in Zimbabwe (2000). Total users in all countries: 961,000."	861000			0		S13	0		
+0	0	0	104955	106472	twx	tewe1238	-18.4459	33.8246	338.246	Tewe	30314	Narrow Bantu	"250,000 (2014 J. Leclerc)."	250000			0		S13	0		
+7	0	0	104955	106301	ndc	ndau1241	-20.1239	33.1739	331.739	Ndau	30270	Narrow Bantu	"500,000 in Mozambique (2014 J. Leclerc). Total users in all countries: 1,300,000."	500000			0		S15	0		
+5	0	0	104955	106302	kck	kala1384	-21.2887	27401	27401	Kalanga	30279	Narrow Bantu	"700,000 in Zimbabwe (Chebanne and Nthapelelang 2000). Total users in all countries: 850,000."	700000			0	S16_Kalanga	S16	1		
+0	0	0	104955	106302	nmq	namb1291	-19.0899	26.0394	260.394	Nambya	30269	Narrow Bantu	"90,000 in Zimbabwe (Chebanne and Nthapelelang 2000). Total users in all countries: 105,000."	90000			0		S16	0		
+7	0	0	104955	106304	ven	vend1245	-22188	29.9523	299.523	Venda	30331	Narrow Bantu	"1,210,000 in South Africa (2013 UNSD), increasing. L2 users: 1,700,000 in South Africa (Webb 2002). Total users in all countries: 2,994,000 (as L1: 1,294,000; as L2: 1,700,000)."	1294000	1700000		1	S21_Venda	S20 (S21)	1		
+14	0	0	104955	106704	tsn	tswa1253	-24368	24.7587	247.587	Tswana	30181	Narrow Bantu	"1,250,000 in Botswana (2003 UNSD). L2 users: 150,000 in Botswana. Total users in all countries: 13,201,780 (as L1: 5,351,780; as L2: 7,850,000)."	5351780	7850000		1	S31_Tswana	S31	1		
+11	0	0	104955	106704	xkv	kgal1244	-25.9208	22.7202	227.202	Kgalagadi	30220	Narrow Bantu	"40,000 (2004 R. Cook)."	40000			0	S311_Shekgalagari	S311	1		
+14	0	0	104955	106808	nso	pedi1238	-24.7993	29.4718	294.718	Pedi (Northern Sotho)	30204	Narrow Bantu	"4,620,000 in South Africa (2013 UNSD), increasing. L2 users: 9,100,000 in South Africa (Webb 2002). Total users in all countries: 13,731,000 (as L1: 4,631,000; as L2: 9,100,000)."	4631000	9100000		0		S32 S301 - S304	0		
+0	0	0	104955	106769	brl	birw1238	-22.17	28.33	28.33	Birwa	30201	Narrow Bantu	"15,000 in Botswana (2004 R. Cook)."	15000			0		S32 S301 - S304	0		
+0	0	0	104955	106808	two	tswa1237	-23.4055	27.4201	274.201	Tswapong	30196	Narrow Bantu	"5,380 (2003 UNSD)."	5380			0		S32 S301 - S304	0		
+2	0	0	104955	106770	sot	sout2807	-30.4445	27.8951	278.951	Southern Sotho	30198	Narrow Bantu	"1,770,000 in Lesotho (Johnstone and Mandryk 2001). Total users in all countries: 13,534,000 (as L1: 5,634,000; as L2: 7,900,000)."	5634000	7900000		0		S33	0		
+0	0	0	104955	107688	nbl	sout2808	-25.6272	29048	29048	South Ndebele	30203	Narrow Bantu	"1,090,000 (2011 census). L2 users: 1,400,000 (Webb 2002)."	1090000	1400000		0		S407	0		
+13	0	0	104955	107692	xho	xhos1239	-31.0389	28.0769	280.769	Xhosa	30166	Narrow Bantu	"8,150,000 in South Africa (2013 UNSD). L2 users: 11,000,000 in South Africa (Webb 2002). Total users in all countries: 19,177,300 (as L1: 8,177,300; as L2: 11,000,000)."	8177300	11000000		0	S41_Xhosa	S41	1		
+3	0	0	104955	107692	zul	zulu1248	-25.3305	31.3512	313.512	Zulu	30162	Narrow Bantu	"11,600,000 in South Africa (2013 UNSD), increasing. L2 users: 15,700,000 in South Africa (Webb 2002). Total users in all countries: 27,669,100 (as L1: 11,969,100; as L2: 15,700,000)."	11969100	15700000		0	S42_Zulu	S42	1		
+3	0	0	104955	30156	ssw	swat1243	-26	31.5	31.5	Swati	30158	Narrow Bantu	"980,000 in Swaziland (2010 J. Leclerc). Total users in all countries: 4,724,200 (as L1: 2,324,200; as L2: 2,400,000)."	2324200	2400000		0		S43	0		
+0	0	0	104955	30156	nde	nort2795	-20.2513	27.4096	274.096	North Ndebele	30157	Narrow Bantu	"1,550,000 in Zimbabwe (Johnstone and Mandryk 2001). Total users in all countries: 1,563,970."	1550000			0	S44_Ndebele	S44	1		
+5	0	0	104955	30244	tsc	tswa1255	-22.9891	32.4287	324.287	Tswa	30262	Narrow Bantu	"695,000 in Mozambique (2014 J. Leclerc). Total users in all countries: 715,000."	695000			0	S51_Tshwa	S51 S511	1		
+12	0	0	104955	30244	tso	tson1249	-23.5754	31.8105	318.105	Tsonga	30249	Narrow Bantu	"2,280,000 in South Africa (2013 UNSD), increasing. L2 users: 3,400,000 in South Africa (Webb 2002). Total users in all countries: 8,479,000 (as L1: 5,079,000; as L2: 3,400,000)."	5079000	3400000		0	S53_Tsonga	S53 (S52)	1		
+3	0	0	104955	30244	rng	rong1268	-26.7329	32.6167	326.167	Ronga	30245	Narrow Bantu	"423,000 in Mozambique (2014 J. Leclerc). Total users in all countries: 424,000."	423000			0		S54	0		
+6	0	0	104955	30232	cce	chop1243	-24.8327	34.1097	341.097	Chopi	30237	Narrow Bantu	"760,000 (2014 J. Leclerc)."	760000			0		S61 S611	0		
+3	0	0	104955	30232	toh	gito1238	-23.7964	35.1577	351.577	Gitonga	30233	Narrow Bantu	"224,000 (2014 J. Leclerc)."	224000			0		S62	0		
